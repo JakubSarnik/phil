@@ -1,0 +1,57 @@
+=== Úvod do studia jazyka ===
+
+Doporučené číst:
+  - skripta A. Erharta Úvod do studia jazyka [základní čtení]
+  - knihu F. de Saussurea Kurs obecné lingvistiky (klidně i víckrát, koupit si)
+  - knihu L. Hjelmsleva Jazyk
+
+Viz tým v MS Teams, kurz v ELFu pro další informace.
+
+Jazyk - nástroj lidské komunikace založený na artikulačně-akustické bázi ("něco co se mluví a slyší").
+  - ale: existuje i psaný jazyk bez artikulačně-akustické báze
+         sporná otázka: Je psaný jazyk odvozený od mluveného?
+  - ale: máme i jiné komunikační kanály (znakový jazyk, Morseova abeceda, Braillovo písmo)
+  - jazyk je sdělení i mechanismus přenosu
+  - zejména je to systém, skládá se tedy z množiny prvků a vztahů mezi nimi
+    - "uspořádaná množina" (analogie s mechanickými hodinami, ty taky nejsou jen množinou ozubených kol)
+
+Smyslem lingvistiky je popsat prvky jazyka, ale hlavně i to uspořádání.
+
+Názor jednoho filozofa: "Jazyk je nástroj dialogu, aby se lidé mohli dobrat porozumění."
+
+Není jisté, kdy se jazyk vyskytl. Sporná je i otázka, jestli jazyk používají exkluzivně lidé, nebo i některá
+inteligentnější zvířata (šimpanzi). Pokus: šimpanzí mládě se vychovává jako člověk (ten ale nikdy mluvit nebude,
+protože k tomu nemá anatomicky uzpůsobený hrtan/krk/jazyk/... -> učí se znakový jazyk nebo primitivní psaní na
+nějaké klávesnici/karty s písmeny/...) - prý zajímavé výsledky (naučí se symboly, vytváří kompozita (voda +
+pták = vodní pták), ...), ale trochu kontroverzní, nejasná replikovatelnost.
+
+-> Přinejmenším vyšší primáti se mohou do jisté omezené míry naučit používat jazyk (+ delfíni, ...), ale
+tato schopnost není mimo člověka využita.
+
+Poznámka: Lidé jsou obecně jiní, např. v porovnání s většinou savců "holí" (oblékání ale nemusí souviset
+s chladem, viz kmeny v tropech).
+
+Podstatný rozdíl mezi člověkem a vyššími primáty je i v sociálním uspořádání - primáti žijí v tlupách, u homo
+sapiens život v rodinách, komunitách (na rozdíl od tlupy, ta je uspořádaná kolem alfa samce/samice a kompetici
+mezi dalšími samci... ).
+
+Poznámka: šance na úmrtí dítěte v nevlastní rodině až třikrát větší než v rodině s oběma rodiči biologickými
+(nejde nutně o vraždy, ale i "přirozená" úmrtí).
+
+Poznámky bez kontextu:
+  - "Na Vysočině žijí úplně stejně jako někde v Africe."
+  - "Úspěšný lovec může mít více žen než jednu."
+  - "Člověk žijící v komunitě je pod neustálým dohledem. Druby jsou klíčovým prvkem sociální struktury."
+  - "Všechny funkce jazyka jsou jen vedlejším efektem toho, že děti se rodí s příliš velkou hlavou."
+    - velká hlava -> složitá výchova dětí -> model rodiny -> potřeba komunikace -> potřeba velkého mozku -> velká hlava
+  - "Člověk je nápadně juvenilní (holé tělo, velké oči, není výrazný mentální přechod mezi mladým věkem a dospělostí)."
+    - To kvůli tomu, že v evoluci se často vychází z juvenilní fáze.
+
+Jazyk je podivuhodně komplexní. Ještě v 18., 19. století panovala představa, že primitivní kmeny budou mluvit
+primitivním jazykem. To ale není pravda - jazyk je podivuhodně komplexní systém. Dokonce jsou např. moderní
+indoevropské jazyky prakticky všechny jednodušší (angličtina hodně jednoduchá, balto-slovanské zachovávají nejvíc
+složitosti) než praindoevropština a staré indoevropské jazyky (až 8. pádů, syntetické časy, složitá konjugace, ...).
+
+Jazyk je podstatnou součástí komunikace - jeho úspěšné zvládnutí je jedním z nejlepších indikátorů společenského
+úspěchu. Úspěšní lidé dnes nejsou bojovníci, ale rétoři (resp. lidé schopní dobře přesvědčovat, přemlouvat, ovládat,
+prodávat, ...). Celá civilizace je založena na používání jazyka.
