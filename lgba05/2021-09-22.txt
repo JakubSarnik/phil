@@ -1,0 +1,86 @@
+=== Jazyky světa ===
+
+Na konci semestru -- seminární práce
+  - výběr oblasti (stát, ale i menší část - Rusko/Sibiř)
+    věcný popis (hlavní jazyky, jejich uživatelé, ...) -- čerpat klidně i z anglické Wikipedie a zdrojů uveených na ní
+    + jazyková mapa
+    celkem cca 1 stránka
+  - výběr jazykové rodiny -- popis klasifikačním schématem, jazykovou mapou, popis areálu rozšíření
+    všechny jazyky dané rodiny
+  - jazyková makrorodina (hypotetický prostor -- vzdálená jazyková příbuznost ne vždy uznávána jazykovědci)
+    Blažek uznává -- stejné procesy vývoje, které probíhají dnes, musely probíhat i dříve (jen nemáme důkazy v písmu)
+=> přijde mail (s podrobnějším vysvětlením) a budeme odevzdávat mailem.
+
+Adresa webu Ústavu jazykovědy a baltistiky: https://www.phil.muni.cz/jazyk/
+
+Různé přistupy ke klasifikaci:
+
+  - areálový -- jazyky sdílející stejný region, kde uživatelé interagují, interferují (vzájemně se ovlivňují)
+    - rys typický pro jeden jazyk se šíří k dalším
+    - konvergence jazyků
+    - vznik jazykových svazů (Sprachbund)
+      - Balkánský jazykový svaz -- "učebnicový příklad"
+        - postpozitivní určitý člen (všude kromě moderní řečtiny, ta má člen před substantivem)
+          - na rozdíl od většiny moderních evropských jazyků (s výjimkou skandinávských jazyků, ty mají taky postpozitivní)
+          - absence infinitivu -> syntaktické změny
+      - Východní Pobaltí (estonština, lotyština, livonština, stará pruština (rip))
+        - gramatická interference (lotyština má bohatý systém pádů po vzoru estonštiny (včetně pádů pro směrovou orientaci))
+      - Střední Evropa (jen jisté rysy)
+        - čeština + němčina -> lexikální interference
+      - Kavkazský jazykový svaz (z indoevropských: osetinština, arménštína)
+        - konvergence v rovině hláskosloví -- emfatické konsonanty
+    - substrát - původní jazykové "podloží"
+      - např. ve francouzštině je jím galština
+    - adstrát - jazyk, který na nějakou dobu ovlivňoval daný jazyk a pak přestal
+      - např. ve španělštině arabština
+    - superstrát - stáletrvající vliv jazyka
+      - např. angličtina ve všech evropských jazycích (dřív ale místo ní francouzština)
+
+Poznámka: V mluvené češtině směřuje slovo "to" ke gramatikalizaci jako určitý člen a "jeden" ale i "nějaký" jako člen neurčitý.
+          Objevuje se i složené perfektum po vzoru západních jazyků ("mám uděláno" = "udělal jsem") [srov. s němčinou, angličtinou, románskými jazyky].
+
+  - typologický -- podle dominantního způsobu určování gramatických vztahů
+    - Pozn.: v anglosaském světě takřka neznámá, ve střední Evropě známá díky Vladimírovi Skaličkovi (analýza 1200 jazyků)
+    - pro každý jazyk je zpravidla jeden typ dominantní, další typ na ústupu a jiný typ se rýsuje (nebo podobně, ale jistě
+      se nedá hovořit o jediném typu)
+    - syntetické jazyky
+      - aglutinační
+        - gramatické morfémy s jednou funkcí (obvykle koncovky, mohou být i prefixy)
+      - flektivní
+        - gramatické morfémy s kumulací více funkcí (alespoň u některých morfémů)
+    - polysyntetické
+      - jak morfémy podobné syntetickým jazykům, tak gramatická pomocná slova
+      - výsledek je ale prezentován jako jedno slovo
+      - typicky indiánské jazyky Severní Ameriky (učili se misionáři, první gramatiky z 16. století)
+      - mluvená francouzština spěje přes analytickou fázi k polysyntézi
+    - analytické jazyky
+      - pomocné gramatické morfémy, slovo něměnné (žádné pádové koncovky nebo prefixy vyjadřující např. dokonavost)
+      - vše zařídí předložky, záložky, je třeba indikovat osobu zájmenem, apod.
+      - typicky moderní čínstina
+      - silně sem spěje moderní angličtina
+        - chybí jmenná flexe kromě plurálové koncovky -s a saského genitivu -'s
+        - zcela chybí flexe adjektiv
+        - supletivismus
+        - primitivní konjugace (rozdíl pouze u třetí osoby singuláru)
+        - analytické časy s pomocnými slovesy
+        - ...
+        - stará angličtina byla flektivní
+      - moderní čeština má u slovesa některé analytické prvky
+        - složený budoucí čas ("budu číst")
+        - složený minulý čas ("byl jsem nakoupit")
+        - ve staročeštině toto nebylo
+      - dále francouzština (zvlášť v mluvené formě), ale viz výše (polysyntetické tendence)
+    - v Severní Americe/Británii je tímto pojmem myšlena spíš klasifikace syntaktická podle pořadí větných členů ve větě
+      - Joseph Greenberg (zásluhy o genetickou klasifikaci jazyků, ale modely zde jsou kontroverzní)
+      - typicky rozlištení podle toho, jestli je na prvním místě podmět nebo přísudek
+        - ale: anglické "There is ...", něměcké "Es gibt ...", budeme klasifikovat jak?
+      - se Skaličkovým přístupem se spíš doplňuje než vylučuje
+
+Příklad: České slovo "ženy" může být akuzativ plurálu i genitiv singuláru - koncovka "y" zde má dvě možné funkce (čeština je flektivní jazyk).
+Poznámka: Většina slovanských jazyků je relativně konzervativní a ponechala si relativně bohatou flexi (ale ne bulharština, makedonština - balkánský svaz)
+
+Článek Indoevropská substantnivní deklinace (časopis Linguistica brunensia)
+  - tabulka 2 -- třídní prefixy (třídy -- sémantická funkce (např. zvířata, rostliny, abstraktní substantiva, párové orgány, ...))
+    - dle Skaličky: můžeme rozlišit aglutinaci (aka-bea) a flexi (svahilština)
+
+Příště: vnitřní flexe (introflexe)
