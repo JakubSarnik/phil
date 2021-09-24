@@ -1,0 +1,29 @@
+=== Obecná fonetika a fonologie ===
+
+V závěrečném testu:
+  - otázka na pojem (třeba "co je to hláska")
+  - otázka na jev (třeba "jak vzniká řeč")
+  - fonetická transkripce (bez tabulek)
+  - rozdíl mezi psanou a mluvenou podobou jazyka
+  - ...
+
+Poznámka: Lidé umí poslouchat řeč i v situaci, kdy je na pozadí hluk (filtrace). Stroje toto zatím nedovedou.
+
+Děti jsou schopny od sebe rozpoznat velkou škálu hlásek, ale postupně se naučí některé zvuky sloučit.
+Příkladem budiž hlásky reprezentované písmenem "ř" ve slovech "tři" a "dři", které se liší znělostí. To většina
+čechů neodliší, narozdíl třeba od rozdílu š a ž. Důvodem je, že v češtině nikdy rozdíl ve znelosti ř nerozliší
+dvě slova (srov. šít, žít). Podobný problém mají japonci s rozdílem mezi "r" a "l".
+
+Ze záznamu řeči a zobrazení ve formě spektrogramu je možné rekonstruovat hlásky.
+
+Fonetika = oblast zabývající se reálnými (fyzikálními, anatomickými, ...) zvuku bez ohledu na užití v konkrétní situaci.
+  - jak jsou zvuky tvořeny, vnímány, ...
+
+Fonologie = jak jsou zvuky využity pro komunikaci využity v konkrétním jazyku
+  - pro rozlišení významu, vyjádření konkrétních informací, vyjádření emocí (pozn.: uspávání dítěte), ...
+  - popis zvukové stavby jazyka (jak se spojují hlásky, v jakém pořadí se můžou vyskytovat, ...)
+
+Poznámka: V mnohých jazycích obsahují slova popisující malé věci hlásku "i", kdežto slova popisující velké věci
+hlásku "a".
+
+
