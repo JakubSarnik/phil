@@ -1,0 +1,150 @@
+=== Lidská mysl: Úvod do kognitivních věd ===
+
+Na dnešek byly na nastudování následující otázky:
+  - Kdo to byl Karl Popper?
+    - Zakladatel představy o "falzifikovatelnosti" teorií.
+  - Čemu se říká "Gestalt"?
+    - Německé slovo znamenající "soustava" nebo "celek".
+    - Celek je víc než součet svých částí.
+    - V psychologii: nevnímáme dílčí části, ale celé soutavy.
+  - Co v rámci psychologie znamená pojem "black-box"?
+    - V behvaiorismu: lidskou mysl zkoumáme jen vzhledem k odpovědím na podněty.
+
+Kognitivní věda - *interdisciplinární* zkoumání myslí a jejích procesů, které staví na oborech jako jsou filozifie,
+  lingvistika, psychologie, neurovědy, antropologie nebo počítačové vědy (robotika, AI).
+Počátky kognitivních věd jako oboru sahají do 50. let 20. století.
+
+Kognice - cognoscere (poznávat, vědět)
+  - Souhrn operací a pochodů, jejichž prostřednictvím si člověk uvědomuje a poznává svět i sebe samého,
+    kovnitivní procesy, poznávání
+  - Výsledek tohoto procesu
+  - Proces i znalost
+
+Základním oborem, ze kterého kognitivní vědy vyšly, je psychologie.
+
+Psychoanalýza
+  - Sigmund Freud (3. nejcitovanější psycholog 20. století)
+  - Soubor teorií i terapeutická metoda
+  - Hysterie (častá diagnóza ve Freudově době) - dnes nahrazena skupinou diagnóz
+    (disociativní konverzní porucha, histrionská porucha osobnosti)
+  - Dle Freuda: *nevědomě* potlačené trauma
+  - Nevědomí (vedle vědomí a předvědomí) - jeho obsah není dostupný
+  - Analýza snů (dle Freuda se ve snech zrcadlí nevědomí)
+  - Freud dost orientovaný na sexualitu (pud, libido, sexuálně orientovaný vývoj osobnosti)
+  - Interpretovat a "vysvětlit" se zde dá vše, ale vždy tak, jak se to hodí psychologovi
+  - Problém s falzifikací (existence nevědomí nejde pořádně vyvrátit)
+  - Projektivní metody (Rorschachova metoda) (ale jejich validita je kontroverzní)
+  - Freudova kontroverznost: hledal důkazy na podporu své teorie, ale problémy ignoroval
+  - Později kritizována/modifikována
+    - Odmítnutí sexuality jako primární lidské motivace (závidění pohlavního údu, ...)
+    - Psychosexuální vývoj nekončí v dětství, morální vývoj pokračuje dále
+    - ALE především: absence empirických důkazů pro celý Freudův systém. Freud léčil, ale nezkoumal systematicky,
+      opakovatelně
+    - V dnešní době živý směr, ale od Freudových původních myšlenek dost přepracovaný
+    - Následovnící (A. Freudová, E. Fromm, C. G. Jung, A. Adler, K. Horneyová, ...)
+
+Nejzásadnějším kritikem psychoanalýzy byl právě K. Popper.
+
+Teorie - dobře podložený, konzistentní systém pojmů a tvrzení, který popisuje určitý okruh jevů a mající schopnost predikce.
+  Pro nás dnes platí, že tento systém byl vytvořený na základě vědecké metody a zahrnující fakta, které byla opakovaně
+  experimentálně či pozorováním prokázána.
+
+Hypotéza - předpoklad (hypotéza = výpověď), jehož platnost se pouze předpokládá, ale formulovaný tak, aby jej bylo možné
+  potvrdit nebo vyvrátit.
+Hypotézu formulujeme vždy oznamovací větou (výrokem) v přítomném čase.
+
+Popper - falzifikace vs. verifikace
+  - verifikace - neustálé hledání dalších důkazů, které teorii potvrzují
+  - falzifikace - hledání důkazu, který teorii rozporuje
+  - Popper pragmaticky tvrdí, že mnohem snazší je teorii falzifikovat (stačí jeden protipříklad), než shromažďovat
+    co nejvíce důkazů ji potvrzující (což je v principu nekonečný proces).
+  - Pokud přes veškeré úsilí nejsme schopni teorii falzifikovat, pak je pravděpodobné (nikoliv však jisté), že
+    tato teorie platí.
+  - Popperova břítva - teorie by měly být formulovány tak, aby je bylo možné falzifikovat.
+  - Teorie, které nejde testovat, nemají vědeckou cenu a nemá smysl se jí vědecky zabývat (např. otázka existence Boha).
+
+Pozn.: Thomas Kuhn - teorie vědeckých revolucí střídající paradigma (vědecky obecně uznávané výsledky v daném čase poskytující model problémů a řešení).
+
+Na principu falzifikace stojí statistické testování hypotéz. Formulujeme *nulovou hypotézu* H_0, která předpokládá nulový efekt
+(efekt, který očekávám, tam není). Formulujeme *alternativní hypotézu* H_1, která odpovídá našemu očekávání. Snažíme se poté statisticky
+zamítnout nulovou hypotézu a tím pádem podpořit její opak - hypotézu alternativní.
+
+Poznámka: Little blue book (o tom, jak přesvědčovat manipultivně)
+
+Věda - systém postavený na kombinaci usuzování (logika) a systematického empirismu (pozorování, testování)
+  - otevřená, veřejná, objektivní
+  - má své limity, není všeschopná
+
+Pseudověda (pavěda) - poznatky a postupy prezentované jako ryze vědecké (např. používají vědeckou terminologii), ale "nehraje podle pravidel"
+  (není falzifikovatelná, významně odporuje obecně uznávaným poznatkům, nepopisuje výzkumné metody, ...).
+  - Prvně použito již v roce 1843 na frenologii (vztah tvaru lebky s duševními vlastnostmi)
+  - Popper mezi nevědecké disciplíny řadí např. astrologii nebo *psychoanalýzu*.
+
+Experiment - královská cesta k poznání myslí.
+  - Data jsou shromážděna v přísně kontrolovaném přostředí.
+
+Wilhelm Wundt (1832 - 1920)
+  - 1879 Lipsko - první psychologická experimentální laboratoř
+  - Experimentální přístup: přesná měření, kontrolované podmínky, shromažďování dat
+  - Zkoumal elementy lidské psychiky (počitky, vjemy, pocity)
+  - Výzkum postaven na metodě introspekce (v kontextu fyzikálního měření)
+  - Příklad: experiment se svíčkami
+  - Snaha o zachycení vnitřních mentálních procesů
+    - Opatrně bychom se mohli bavit o výzkumu kognitivních procesů, ale s tímto pojmem tehdy nikdo nepracoval...
+
+... navíc (v USA)
+Behaviorismus
+  - Dominantní směr 1. poloviny 20. století
+  - Zkoumá chování, učení
+  - Schéma S -> R (Stimulus -> Organismus -> Reakce)
+    - Mysl je "black box", do kterého nevidíme
+    - Introspekce je příliš subjektivní, nemá tedy cenu
+  - Experiment (J. B. Watson): Malý albert (conditioning/podmiňování u dítěte)
+  - Chování je dle behavioristů zcela ovlivnitelné ("dejte mi 10 jakýchkoliv dětí a já vám z nich vychovám, co chcete")
+  - Vyvěrá z výzkumů I. P. Pavlova se psy
+    - Definoval podmíněnou a nepodmíněnou reakci
+    - Silnění na jídlo - nepodmíněná reakce
+    - Spojení jídlo se zvoněním -> slinění u zvonění -> podmíněná reakce
+  - Pozn.: E. L. Thorndike - instrumentální podmiňování u koček (zvyšování frekvence "chtěného" chování)
+  - Pozn.: V této době se živé diskutovalo i o měření lidské inteligence (např. řazení rekrutů v americké armádě dle mentálních předpokladů)
+  - B. F. Skinner - operantní podmiňování u holubů (pozitivní odměny, ale i negativní tresty)
+    - Docela úspěšný (např. naučil holuby hrát ping pong)
+
+... mezitím v Evropě
+Gestaltismus
+  - Výzkum lidské mysli je pojímán více holisticky
+  - Celek je více než suma jednotlivých částí
+  - "Jak to, že dokážeme vidět pohyb na videu, i když se jedná o posloupnost statických obrázků?"
+    - dále např. akordy v hudbě
+  - Ve výzkumu fyziky musíme zkoumat funkční celek
+  - Návrat k introspekci a zkoumání vnitřních mentálních procesů
+  - Vhled - v hlavě se děje něco víc než stimul - reakce; anticipace mentálních procesů (experiment se šimpanzy - Köhler)
+
+Kognitivní obrat v psychologii
+  - E. C. Tolman (1886 - 1959)
+  - Pozní fáze behaviorismu, ovlivněn Gestaltismem a přístupem E. Brunswika
+  - Zkoumá krysy v bludišti
+  - Všímá si, že i ta krysa, která proběhne bludiště bez posílení (bez odměny), se taky průchod naučí
+    -> latentní učení
+  - Definice *kognitivní* mapy - krysy si dokázaly udělat představu o bludišti, ve kterém měly hledat potravu, i přesto,
+    že nebyly motivovány hledat potravu.
+    -> Kognitivní mapa je předchůdce pojmu mentální reprezentace
+  - Nejde jen o součet stimulů, chování je zaměřené na konkrétní *cíle*
+  - Chování tedy není jen systém podmíněných a nepodmíněných reakcí - black box je třeba zkoumat také
+
+Kognitivismus
+  - 50. léta 20. století
+  - Směr, který se soustředí na zkoumání vnitřních mentálních procesů
+  - Kognitivní psychologie vzniká jako reakce na behaviorismus, nové objevy a je výsledkem širšího hnutí i v dalších oborech
+    (lingvistika, počítačová věda, neurovědy; Jean Piaget, G. A. Miller, Noam Chomsky, Aaron Beck, ...)
+  - Na mysl se začalo nahlížet metaforou počítače (produkt své doby...)
+    - Snaha o popsání kognitivních procesů s pomocí počítačových sytémů
+    - Pronikání informatické terminologie do psychologie (kódování, komputace, ...)
+    - Ale mozek zřejmě nepracuje na stejném principu, jako počítače
+    - Nicméně: také inspirace počítačové vědy psychologií (právě ta robotika, AI, neurální sítě, ...)
+  - Ulric Neisser (1965) - tvrdí, že kognitivní psychologie studuje to, jak se lidé učí, strukturují, ukládají a využívají znaloti
+    -> snaha porozumět vnitřnímu světunlidí, porozumět důvodům chování -> potřeba zkoumat subjektivní mentální procesy
+  - Středem zájmu kognitivní psychologie se stává kognice
+  - Důraz na vědeckost (empirický výzkum, kontrolované experimenty)
+  - Vysoká míra aplikovatelnosti (v průmyslu i terapii)
+  - Etabluje obor kognitivní vědy, která psychyku zkoumá z více různých pohledů
