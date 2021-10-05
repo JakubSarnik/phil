@@ -1,0 +1,103 @@
+Otázky z minula:
+  - Co rozporuje/čemu se říká "argument homunculus"?
+    - Argument homunculus je jistá forma argumentace kruhem. Typické použití je pro vysvětlení vidění: vzruchy
+      ze sítnice jsou přenášeny do mozku, kde je něco (nebo někdo - homunculus) pozoruje. Ovšem to zase přenáší
+      problém na otázku, jak tedy "vidí" homunculus.
+  - Kdo to byl John Rogers Searle?
+    - Americký filozof zabývající se filozofií jazyka a filozofií mysli. Pro naše účely je důležitý především
+      svým argumentem čínského pokoje, který je zaměřen proti představě, že počítačový algoritmus může disponovat
+      vědomím.
+  - Čo znamená "ekologická validita"?
+    - Využitelnost výsledků nějakého testu v praxi.
+  - Čemu se říká "HARKing"?
+    - "Hypotethising After Results are Known" - prvně proveddeme test, pak na základě jeho výsledků formulujeme
+      hypotézu a prezentujeme ji, jako bychom ji vytvořili před samotným testem.
+
+Pozn.: Alespoň tady v Juříkově části by mělo jít na zkoušku odpovědět na základě handoutů.
+
+Kognitivismus přistupuje k mysli jako k soustavě mentálních operací - de facto jde o algoritmus.
+Používá proto pojmy jako komputace, informační zpracování a metaforu počítače (vstupy a výstupy, výpočetní paradigma,
+omezená kapacita pracovní paměti, ...).
+
+Kognitivismus staví na myšlence, že chování člověka je zásadně zakotveno v jeho mentálních procesech (a vylučuje se
+tak například sociální nebo situační kontext).
+
+Kognitivismus navazuje na behaviorismus (přejímá např. jeho experimentální metody) a je to v porovnání s ním "upgrade",
+ale sám také trpí jistými problémy.
+  - Přínosy
+    - Mentální reprezentace - vnitřní (mentální) model světa
+    - Teorie duálního kódování (Allan Paivio), imageny (obrazy) a logogeny (propozice, vztahy)
+    - Struktura paměti (dlouhodobá, krátkodobá, Millerovo číslo 7 +- 2
+  - Aplikace
+    - Psychologie práce a organizace
+    - Vzdělávání
+    - Ekonomie
+    - Human factors, human error, ...
+
+Doporučení: kniha Myšlení rychlé a pomalé (Daniel Kahneman) [ale pozor, dnes už není nutně tak aktuální, přečíst
+            si k tomu i nějakoý moderní "dovětek"]
+
+Usuzování je jedním ze 4 hlavních cest k utváření domněnek/víry o světě:
+  - Tradice (nemusí být aktuální)
+  - Autorita (nemusí být objektivní)
+  - Usuzování (logika, ta může selhat)
+  - Empirie (časově a jinak nákladné)
+
+Věda je někdy chápána jako samostatná 5. kategorie, jedná se však o kombinaci usuzování a empirie.
+
+Kritika kognitivismu
+  - Pro vysvětlení lidské psychiky spíš moc nestačí toliko popis operací s informacemi.
+  - Nemůžeme ignorovat biologické aspekty organismu - nervový systém není jen mozek, mozek zase nejen šedá kůra.
+  - Nemůžeme upozaďovat vliv emocí
+  - Experimenty (z 2. poloviny 20. století) mají relativně nízkou ekologickou validitu
+    - člověk v reálném světě nefunguje stejně jako v uzavřené laboratoři.
+  - Metafora počítače není dokonalá, neb člověk prostě není počítač - podléhá emocím, únavě, emotivitě, má limitované
+    kapacity, motivace, cíle, ...
+    - Navíc ani nevysvětluje dostatečně existenci vědomí a hlubších struktur mysli.
+  - Daniel Dennett (filozof mysli) - různé dimenze mysli (paralelní jeviště v mysli, která navzájem soutěží)
+  - Lidé jsou iracionální (tedy Homo Economicus (J. S. Mill, 1836) úplně neobstojí)
+    - Vězňovo dilema (teorie her)
+    - "Je všeobecně rozšířený omyl, že každá věc se dá vysvětlit každému." -- Markl ("nějaký český matematik"), 2019
+  - Argument homunculus - kognitivní psychologové se moc nezatěžují s tím, jakým způsobem vzniká například obraz.
+    Mysl sice pracuje na principu dodržování jasně definovaných pravidel, ale kdo tato pravidla dodržuje a hodnotí?
+    -> homunculus (neboli "já"), ale kdo potom "řídí" tohoto homuncula?
+  - Argument čínského pokoje (J. R. Searle)
+    - Schopnost smysluplně odpovídat na položené otázky zdaleka nemusí znamenat porozumění obsahu.
+    - Toto je v kognitivní psychologii docela opomíjeno: proces komunikace je pro ni důležitější, než jak vzniká "porozumění".
+  - Naše mysl vůbec nemusí pracovat v komputačním smyslu, ale může to být jistý "autoregulující" systém
+    (Př.: Wattův rovnovážný regulátor), ale toto zatím není empiricky ověřeno a možných modelů je víc
+
+Embodied cognition
+  - Vtělesněná kognice
+  - Tělo coby další kapacita pro zpacování vstupů
+  - Zohledňuje i biologické struktury jako determinanty psychyky a situační kontext (ovlivňuje kognici)
+    - Pozice těla a fyzická zkušenost těla, emoční zkušenost organismu
+    - Cíle organismu
+    - Časový aspekt
+    - Aktivní nebo pasivní přístup (v lavici vs u tabule)
+  - Doporučení: kniha Descartův omyl (Antonio Damasio, kritika dualismu)
+
+Ekologická validita vyjadřuje míru, do jaké jsou závěry nějakého výzkumu zobecnitelné na situace, ve kterých se studovaný
+fenomén obvykle vyskytuje.
+  - Čím větši experimentální kontrola, tím horší ekologická validita
+
+Publikační politika a kam to vedlo
+  - Snaha o senzace ve vědě
+  - Publikace pouze signifikantních výsledů (p = 0.05 velmi důležitá "mantra")
+  - Chyby vzorku - špatný nebo nedostatečný výběr participantů do výzkumu
+  - Publikace pouze originálních studií, nikoliv replikací
+  - Snaha výzkumníků o to, aby jim to "nějak vyšlo"
+    - HARKing - viz výše
+    - P-hacking - dosažení signifikantní hodnoty p manipulacemi s daty
+    - Data fishing - nasbírám data bez hypotézy, zkusím "něco" najít a náslendně publikuji i s hypotézou
+    - Cherri picking - vybírání pouze signifikantních výsledků, zamlčování toho, co nesedí
+  - ===> replikační krize v psychologii
+    - Spouštěčem byla publikace "potvrzující" mimosmyslové vnímání (Daryl Bem, 2011), načež se ukázalo, že manipuloval
+      s daty. Toto spustilo velkou vlnu ověřování i u ostatních článků.
+    - V sociální psychologii bylo ověřeno 97 % publikovaných studií a z toho se podařilo replikovat signifikantní výsledky
+      u pouhých 36 % článků!
+    - Možné cesty ven:
+      - R Index (replikační index)
+      - MANY LABS Project (ověření, co teda skutečně platí),
+      - Open Science (předběžné hypotézy online, poskytování veškerých dat, detailní metodologie, kód v R, ...)
+      - Výzkum s využitím moderních technologíí - např. virtuální realita (kontrolovaný experiment, ale vyšší ekologická validita)
