@@ -1,0 +1,46 @@
+Zapojení měkkého patra rozhoduje o tom, jestli bude proud vzduchu proudit jen ústy, nebo i nosem.
+Výdechový proud vzduchu je mnohem silnější než nádechový proud (proto typicky mluvíme při výdechu).
+
+Schéma hlasivek
+  - vlevo: poloha při dýchání (štěrbinou prochází vzduch)
+  - vpravo: poloha při mluvení (hlasivkové blány jsou těsně přiblíženy a rozkmitávají vzduch)
+  - hlásková štěrbina (glottis -> glotální hlásky (h, ráz))
+
+V principu jde mluvit i bez hlasivek (viz ztráta hlasu), hlasivky ovšem vytvářejí ten nejzřetelnější
+zvuk.
+
+Pozn.: u rázu (o-kno) jsou hlasivky zcela uzavřeny a vzduc neprochází. V principu stejným způsobem můžeme
+       zadržet dech.
+
+Další typy fonace: např. třepená fonace (v některých jazycích podobná role jako znělost v češtině)
+
+Každý jazyk má orální hlásky, ale nazální nutně ne. Nazální samohlásky jsou relativně málo časté (výskyt třeba ve Francouzštině).
+Všechny známé jazyky světa mají neznělé souhlásky, ale nemusí mít souhlásky znělé.
+
+Při tvorbě některých hlásek (např. francouzské r) je využit čípek (zakončení měkkého patra).
+
+Měkké patro je jak aktivní, tak pasivní artikulační orgán. Aktivní kvůli otevírání/zavírání průchodu do dutiny nosní,
+pasivní proto, že se k němu může přibližovat/dotýkat jazyk.
+
+Když se jazyk přibližuje k pasivním artikulačním orgánům, může to být buď špičkou jazyka, nebo jeho hřbetem.
+V drtivé většině jazyků světa se vyskytují koronální hlásky (logicky, hrot jazyka je velmi pohyblivý).
+  - Některé jazyky mají hlásky apikální, jiné zase laminální (třeba "t", "d" lze tvořit oběma způsoby).
+  - V tomto se liší angličtina (apikální t, d) a čeština (laminální t, d).
+
+Většina evropských jazyků nemá sub-apikální hlásky (ale třeba sanskrt nebo hindština ano).
+
+Ze rtů se většinou aktivněji pohybuje ten dolní (přibližuje se k hornímu rtu nebo horním řezákům).
+
+Problém s hláskami je ten, že je většinou nemůžeme vyslovovat samostatně, ale jen v rámci slabik. Např. vyslovení samotného
+"p" není jen "p", ale slabika p + neutrální samohláska.
+
+Za přítomnosti překážky (u konsonant) se vzduch "tře" o překážku a vzniká šum (kmitání je nepravidelné).
+Naproti tomu u vokálů je tření relativně malé a je "přehlušeno" tónovostí (pravidelným kmitáním).
+
+Pozn.: sylabičné konsonanty (v češtině r, l a okrajově m)
+  - mají sice překážku i šum, ale částečně i tónovost -> proto je můžeme využít jako slabičné jádro
+Striktní dělení hlásek na konsonanty a vokály nedává totiž úplně smysl.
+
+Pozn.: Slova s vokály jdou lépe slyšet (pes vs. prs).
+
+
