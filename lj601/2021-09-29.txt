@@ -1,0 +1,80 @@
+25.5
+villa, incola, pecünia, epulae (pomnožné)
+
+Jak skloňujeme?
+Odtrhneme koncovku genitivu (např. femin-ae) a přidáváme pádové koncovky k takto vzniklému kořeni
+
+Příklad:
+1. femin-a  femin-ae
+2. femin-ae femin-arum
+3. femin-ae femin-is
+4. femin-am femin-as
+5. femin-a  femin-ae
+6. femin-a  femin-is
+(v ablativu je a dlouhé)
+
+25.1
+1. magistra  magistrae
+2. magistrae magistrarum
+3. magistrae magistris
+4. magistram magistras
+5. magistra  magistrae
+6. magistra  magistris
+
+25.2
+silvis (silva, les) - dativ nebo ablativ plurálu feminina
+scholam (schola, škola) - akuzativ singuláru feminina
+amica (amica, přítelkyně) - nominativ nebo vokativ singuláru feminina
+vitä (vita, život) - ablativ singuláru feminina
+portae (porta, brána/dveře) - genitiv nebo dativ singuláru, nebo nominativ nebo vokativ plurálu feminina
+poetarum (poeta, básník) - genitiv plurálu maskulina
+puellis (puella, dívka) - dativ nebo ablativ plurálu feminina
+naturä (natura, příroda/přirozenost) - ablativ singuláru feminina
+
+Spojení dvou substantiv do přívlastku neshodného:
+1. substantivum v nominativu, 2. substantivum v genitivu, (3. substantivum v genitivu, ...)
+Př.: filia feminae (dcera ženy), filiae magistrarum (dcery učitelek)
+
+statua deae (socha bohyně)
+statua poetae (socha básníka)
+statua nautae (socha námořníka)
+gloria poetae (slává básníka)
+vitae poetarum (životy básníků)
+vitae magistrarum (životy učitelek)
+
+Předložky (se vždy váží se 4., 6. nebo 4. i 6. pádem)
+
+Předložky s ablativem (jdou podle abecedy):
+  - a, ab - od         - ab amica (od přítelkyň), a femina (od ženy)
+  - cum   - s          - cum amicis (s přítelkyněmi)
+  - de    - o          - de pugna (o bitvě)
+  - e, ex - z          - ex aqua (z vody), e silva (z lesa)
+  - pro   - pro, místo - pro amicis (pro přítelkyně)
+  - sine  - bez        - sine cura (bez starosti), sine amicis (bez přítelkyň)
+
+Předložky s akuzativem:
+  - ad      - k, do, u - ad feminam (k ženě)
+  - ante    - před     - ante portas (před branami)
+  - apud    - u        - apud amicam (u přítelkyně)
+  - contra  - proti    - contra naturam (proti přírodě)
+  - inter   - mezi     - inter incolas (mezi obyvateli)
+  - post    - po, za   - post victoriam (po vítězství), post silvam (za lesem)
+  - per     - skrze    - per silvam (skrze les)
+  - propter - kvůli    - propter pugnam (proti bitvě)
+
+Předložky s oběma pády:
+  - in  + akuzativ (kam?) - do
+  - in  + ablativ  (kde?) - v
+  - sub + akuzativ (kam?) - pod (něco)
+  - sub + ablatib  (kde?) - pod (něčím)
+
+25.7
+ad portam
+in silvam / in silvä
+cum puellis
+sine pecuniä
+de nautis
+contra feminas
+post pugnam
+
+Doma: 26.11 + zopakovat slovíčka 1. lekce, slovíčka 2. lekce
