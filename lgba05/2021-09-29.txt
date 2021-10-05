@@ -1,0 +1,56 @@
+Ode dneška se budeme zabývat jazykovou klasifikací genetickou (genealogickou).
+  - Jde po stupních příbuznosti jazyků (skrze příbuznost skupin jejich uživatelů).
+  - Vznik genealogické disciplíny až v 19. století (seriózně/exaktně až na konci století)
+    - ale: nějaké první naivní kroky již ve starověku
+  - Během 20. století byla genealogická příbuznost definována Hjelmslevem (kniha Jazyk).
+    - "Jazyky jsou vzájemně příbuzné, jestliže se vyvinuly z jednoho a téhož prajazyka."
+    - Problémem této definice je, že prajazyky byly většinou jen zřídkakdy písemně zaznamenány.
+    - Pozn.: V Evropě typicky latina, ovšem pozor, klasická "Cicerova" latina není předkem románských jazyků,
+             tím je vulgární (tedy lidová) latina až o několik století později.
+    - Pozn.: Podobně i s klasickou řečtinou je problém - každý městský stát měl vlastní dialekt a kdyby se tyto
+             vyvíjely samostatně, tak jsou dnes nesrozumitelné. Alexandr Makedonský ovšem začal podporovat
+             attický dialekt (Atény) a vznikl společný "naddialekt" koiné (znamená "jednotná"/"společná" (mluva)).
+             (Atény proto, že i přes vojenské porážky měly největší prestiž i obchodní sílu.)
+             Jediný přeživší dialekt je na severovýchodě Peloponésu kolem Sparty - lakonský/tsakonský (dnes ohrožen).
+    - Sanskrt (védský sanskrt -> klasický sanskrt (odlišuje se syntakticky, složitá kompozita, vazby s příčestími)
+      -> středoindické jazyky/prákrty (pálit, ...) -> moderní indické indoevropské jazyky)
+    - Středočínština (roky 600-900) -> moderní čínské dialekty (kromě skupiny Min kolem Šanghaje, ty se vydělují již
+      kolem roku 200)
+    - Arabské dialekty se vytvářejí již kolem roku 700 (tedy krátce po arabské expanzi).
+      - Pozn.: z Persie vytlačna perštinou po zhruba 200 letech.
+      - Dnes obtížná vzájemná srozumitelnost, jednotícím prvkem je literární a klasická arabština (vycházejí z jazyka
+        koránu).
+  - Otto Dempwolff definuje dvě fáze testování jazykové příbuznosti, čímž řeší problém s nedoloženými prajazyky:
+    - Induktivní fáze: mezi jazyky pozorujeme podobnost mezi slovy (případně morfémy - např. koncovky). Snažíme se
+      tyto podobnosti najít v co největší míře a zformulovat hláskové zákony, které je spojují. 
+    - Deduktivní fáže: takto zformulované hláskové zákony aplikujeme na celou množinu podobností. Pokud něco neodpovídá,
+      tak to eliminujeme. To, co z původní množiny podobností zbude, by mělo představovat společné dědictví nějakého
+      (klidně nedoloženého) prajazyka.
+    - Dempwolff tento postup aplikoval na austronéské jazyky a pokusil se o jednu z prvních rekonstrukcí austronéského
+      prajazyka (ve 30. letech 20. století, přijímána dodnes).
+    - Kdybychom chtěli porovnávat i stupěň příbuznosti, pak bychom museli přidat ještě fázi kvantitativní
+      -> Morris Swadesh (snažíce se kompenzovat neexistenci psaných záznamů původních jazyků Ameriky) zavádí glottochronologii
+         (inspirací mu byla radiokarbonová metoda datování).
+         - Místo rozpadajících se jader uhlíku se díval na slova, která zanikají.
+         - Vytvořil vzorek 215 slov, statisticky pak ověřil, že za 1000 let je z nich průměrně nahrazeno zhruba 19.5 %.
+         - Ale vznikl problém např. při aplikaci na slovanské jazyky (znamenalo by to, že za sv. Václava ještě slované používali
+           stejný jazyk).
+         - Swadesh upravil vzorek slov (zredukoval na 100, univerzálnější vzorek, který tolik nesouvisí s kulturou, klimatem, prostředím,
+           ...) a upravil "rozpadovou konstantu" na 14 % změněných slov za 1000 let v průměru.
+         - Ale opět průměr s relativně širokým intervalem hodnot (5 % - 20 %).
+         - I zde byl nadále problém (opět u slovanských jazyků).
+         - Glottochronologie byla vnímána negativně a nedůvěryhodně.
+         - Během 80. let 20. století byl obnoven zájem o tuto metodu (Sergei Starostin).
+           - Rozlišení, jestli náhrada slova je inovace z téhož jazyka, nebo výpůjčka z jiného jazyka.
+           - Po očištění od výpůjček byl rozptyl zredukován na 4 % - 6 % s rozpadovou konstantou 5 % (vymyká se angličtina, tu nazval
+             specifickým "kreolizovaným" jazykem).
+           - Nakonec dospěl k závěru, že rozpadová "konstanta" se vlastně mění v čase (ale: místo exponenciální funkce transcendentní
+             funkce, řešení numericky, iterativně).
+             -> rekalibrovaná glottochronologie
+
+Pozn.: glottochronologie vs lexikostatistika
+  - glottochronologie pracuje s testovacími inventáři slov
+  - ostatní přístupy se opírají o fonologické a morfologické izoglosy
+    - ale: porovnáním gramatických morfémů se gótština může jevit bližší k latině než k angličtině (neboť ta přišla o flexi)
+
+
