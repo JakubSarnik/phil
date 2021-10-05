@@ -1,0 +1,77 @@
+Dle de Saussurea:
+  - Jazyk (langue) - soubor pravidel (resp. znakový systém)
+  - Mluva (parole) - konkrétní výpověď/řečový akt
+  - Řeč - schopnost užívat "jazyka" pro vytváření "mluvy"
+
+Analogie: šachová partie (mluva) vs. hra v šachy (jazyk).
+Každá mluva je individuální a jedinečná.
+  - "Dvakrát nevyslovíte stejnou výpověď."
+
+Naproti tomu jazyk je sdílený (mezi mluvčím a příjemcem sdělení).
+  - Což nepopírá existenci nedorozumění, neboť jazyk je systém přirozeně evolučně vyvinutý a tedy
+    z principu nedokonalý.
+
+Jazyk je dále v daném okamžiku neměnný a hlavně je arbitrární.
+
+Každý znak má formu (označující) a obsah (označované).
+  - V daném kolektivu je závazný.
+  - "Něco pro něco jiného."
+  - Říše ideí a říše zvuků - znaky jsou propojení mezi ideí a zvukem.
+  - Říše ideí není stejná s naším světem, o čemž svědčí například existence slov, které v objektivní realitě
+    nemají existující protějšek ("vodník").
+  - Pozn.: universum vs. oikumene
+
+       ^
+       |
+       |
+<-------------> uspořádání syntagmatické (a + b)
+       |
+       |
+       v
+  uspořádání paradigmatické (a nebo b)
+
+
+Pozn.: proprium - vlastní jméno, apelativum - obecné jméno
+Pozn.: syntagmatika - seřazování, paradigmatika - zaměňování
+
+Př.: "Ovce žere trávu" - syntagmatika
+     "trá-vu" - syntagmatika
+     "trá-va" - paradigmatika (zaměnění koncovky)
+
+Znakem může být leccos - diplomová práce, píseň, slogan, kapitola v knize, věta, ...
+Znaky se tedy mohou skládat z menších znaků (ale nemusí: "Prší.").
+I slovo se (často) dá rozdělit na měnší znaky (na morfy).
+  - "uč|i|tel|k|a" - 5 morfů
+  - "býk|0" - 2 morfy
+
+Věta -> slovo -> morf
+  - Morfy jsou minimální znaky (třeba taková hláska už není znak, formu má, ale obsah ne).
+    - Ale můžeme rozlišovat fony (fonetika, fonologie), což už není znak, ale má smysl se tím zabývat.
+      (Nejmenší jednotka formy.)
+    - Dále můžeme rozlišovat sémy (nejmenší jednotka významu; sémantika).
+      Ale tam je to složitější, protože třeba ve větě "To je kráva." velmi záleží na kontextu (relační vztah).
+  - Vše nad morfy jsou znaky komplexní.
+  - Všechny zmíněné znaky mají své schéma.
+  - Morf a slovo - morfologie
+  - Věta - syntax
+
+Plány jazykové analýzy ^ (od syntaktického k fonetickému).
+Andre Martinet - 1. členění (na minimální znakové jednotky), 2. členění (na minimální zvukové jednotky)
+
+Opozice (protiklad) - odlišujeme intuitivně pořád (jinak bychom nemohli existovat)
+  - Např. opozice mezi t a d - znělost (jinak mají vše ostatní stejné).
+  - Lze najít "minimální" opozice a všechny ostatní jsou potom množinou těchto minimálních.
+  - Obecnější příklad: příznakovost (jeden má něco, co druhý ne) - znělost, ale i délka vokálu, ženský rod
+    (tam se to pozná tak, že příznak se dá odebrat, např. -i u kolektivu žen i mužů odstraňuje příznak ženského rodu).
+  - Opozici dané tím, že něco je a není, se říká privativní.
+  - Další možností je, že příznakový je každý z nich - opozice ekvipolentní (p vs. t - labiální vs. velární).
+  - Dále opozice graduální lišící se stupněm vlastnosti (typicky stupňování adjektiv, nebo délka vokálů v estonštině (3 délky)).
+
+Lingvistika - nauka o jazyce (ve významu nahoře).
+  - Dotýká se rétoriky, literární vědy, fyziologie (fonetika), fyziky, filozofie, matematiky (algebra, statistika), logiky, psychologie
+
+Lidská řeč funguje ve dvou aspektech
+  - aspekt statický - synchronní lingvistika - skoumá jazyk v daném okamžiku (soudobá čeština, stará francouzština, ...)
+  - aspekt dynamický - diachronní lingvistika - skoumá změny jazykového systému v čase
+    - historická lingvistika
+    - srovnávací lingvistika ("prehistorická lingvistika") - př. indoevropská srovnávací jazykověda
