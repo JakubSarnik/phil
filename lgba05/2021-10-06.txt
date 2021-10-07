@@ -1,0 +1,55 @@
+=== Jazyky Afriky ===
+
+Z Afriky máme velmi dlouhou písemnou tradici: stará egyptština, stará etiopština (sabejská říše, písmo má původ ve fénickém)
+Mezi roky 700-800 př.K. se severní Afrikou šíří fénické písmo (s místními modifikacemi: starolibyjské písmo)
+  -> používáno i v Kartágu (semitský jazyk, blízký hebrejštině), ale "místní" obyvatelé mluví berberskými jazyky.
+  - pokračovalo do 19. století (mezi gramotnými ženami v kmeních Tuaregů) a dnes slouží jako znak emancipace Berberů a proniká
+    do Alžírska, Maroka, ... (písmo tifinagh)
+
+Skrze Perskou říši (a její državy v Egyptě) pronikla do severní Afriky aramejština a přes Ptolemaoivský Egypt zase řečtina.
+  -> na základě alfabety vzniká koptské písmo.
+
+Pozn.: Werner Vycichl (egyptolog zabývající se koptštinou)
+Dále např. staronubijské texty (křesťané na jihu Súdánu)
+
+Pozn.: německý afrikanista Carl Meinhof
+  - specialista na Bantuské jazyky a otevřený rasista a nacista
+    - Hamité - biblické postavy Hám (hamité), Šém (semité), Jáfet (severněji - řekové, chetité, ...)
+      - U semitů docela trefa, hamité jsou ale spíše umělý konstrukt
+  - německé kolonie v Gambii, Keni, Tanzánii, ...
+
+Joseph Greenberg
+  - 1947 - publikuje studii o afrických jazycích
+  - Zavádí nové, koloniálním názvoslovím nezatížené, názvy pro africké jazyky
+    - Např. afroasijské jazyky místo semitohamitské jazyky (což ani nedává smysl, Hamité jako stejnorodá skupina de facto
+      neexistují), khoisanské jazyky
+
+Khoisanské jazyky
+   - "khoi" i "san" znamená v jistých těchto jazycích "člověk"
+   - Pozn.: stejně tak jsou dnes překonané i termíny "křovácké jazyky" a "hotentotské jazyky" z této větve
+   - Převážně v oblasti jižní Afriky (Jihoafrická republika, Botswana, Namibie, dříve Angola), ale i hadza a sandawe
+     z východní Afriky (Tanzánie)
+     ALE: Dnes již toto není bezesporně přijímáno, dost možná jazyk hadza a Khoisanským není, jedná se
+     pravděpodobně o sekundární vliv.
+   - "Mlaskavky" (clicks) - 3 až 5 takových souhlásek v každém jazyce (ale i v nekhoisanských jazycích, např.
+     pronikly do bantuských jazyků)
+
+Příklad: Linguistica Brunensia, 2015, číslo 1 - recenze knihy Jazyki Afriki Georgie Starostina
+Jazyk hatsa má s khoisanskými jazyky společné asi 2.5 % slovní zásoby (Greenberg sám říká, že společné prvky pod 3 % jsou
+"statistický šum" a důsledek společného vývoje/kontaktu/...).
+
+Kongo-kordofánské jazyky - dnes již není v užívání, dává se předost názvu jazyky niger-kongo a kordofánské jazyky se
+považují za jejich součást.
+  - Společným rysem jsou jmenné třídy (v podobě prefixů)
+    - Ve svahilštině 10 tříd, v některých bantuských jazycích přes 20
+    - V některých jazycích jen takzvaný konsonantický ablaut (změna konsonantů na začátku slov) - relikty jmenných tříd
+      co splynuly s vlastním slovním základem a projevují se jen jako nepravidelnosti (typicky atlantské jazyky, jazyky mande)
+  - Pozn.: Jazyky Joruba, Igbo (benue-kongo) jsou uživány i ve školní výuce, mají jednoslabičná slova s tóny, píší latinkou.
+    Jinak velká část z těchto jazyků nemá literární tradici.
+  - Bantoidní jazyky - jazyky velmi podobným bantuským jazykům
+  - Užívány od Atlantiku po Indický oceán (šířily se východním směrem, epicentrem pomezí Nigérie a Kamerunu)
+
+Nilo-saharské jazyjy
+  - Původně "negativní vymezení" - jazyky, které nepatří do skupin, které již známe, ale dnes pro většinu z nich
+    ukázáno, že velká většina skutečně příbuzná je (Starostin).
+
