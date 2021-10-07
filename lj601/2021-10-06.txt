@@ -1,0 +1,70 @@
+=== Slovesa 1. konjugace ===
+
+amo, -are, -avi, atum
+
+Poznáme podle dlouhého ö v indikativu prezenta singuláru 1. osoby a hlavně infinitiv zakončený na äre.
+
+Vzor: laudo, laudare, laudavi, laudatum
+Získáme prezentní kmen z infinitivu škrtnutím re - lauda
+
+osobní koncovky aktivní
+1. -o/m -mus
+2. -s   -tis
+3. -t   -nt
+
+osobní koncovky pasivní
+1. -or  -mur
+2. -ris -mini
+3. -tur -ntur
+
+Indikativ prézenta aktiva:
+laudo  laudamus
+laudas laudatis
+laudat laudant
+
+Indikativ prézenta pasiva:
+laudor   laudamur
+laudaris laudamini
+laudatur laudantur
+
+V imperfektu mezi kmen a koncovku přidáme bä/ba.
+Ve futuru mezi kmen a koncovku přidáme bo/bi/bu (v pasivu ještě be v 2. osobě singuláru).
+
+V imperativu jen pro 2. osobu:
+lauda laudate
+
+Imperativ vždy musí být rozkaz, nikoliv zákaz (ten se tvoří jiným slovesným způsobem).
+Aktivní infinitiv najdeme ve slovníku, v pasivním vyměníme -re za -ri.
+
+zpívají - cantant
+zpívali - cantabant
+budou zpívat - cantabunt
+pracujeme - laboramus
+pracovali jsme - laborabamus
+budeme pracovat - laborabimus
+jsi kárán - castigaris
+byl jsi kárán - castigabaris
+budeš kárán - castigaberis
+
+35.1
+laboratis - 2., pl., ind., préz., akt., pracujete
+salutaberis - 2., sg., ind. fut., pas., budeš zdraven
+
+36.6
+portas - portabas - portabis
+salutamini - salutabamini - salutabimini
+laudaris - laudabaris - laudaberis
+amamus - amabamus - amabimus
+
+37.9
+Feminae laborant. - Ženy pracují.
+Servae feminam salutabant. - Otrokyně zdravily ženu.
+Incolae aquam in villam portabunt. - Obyvatelé budou do statku nosit vodu.
+Semper bene cantabas. - Vždy jsi zpíval dobře.
+Magistrae industriam puellarum laudabant. - Učitelky chválily píly dívek.
+Magistra puellis fabulas de controversiis inter deas narrat. - Učitelka povídá dívce příběhy o sporech proti bohyni. (???)
+
+V pasivní konstrukci:
+Fäma ä magisträ narrantur. (ä magisträ - "od učitelky"/učitelkou)
+
+
