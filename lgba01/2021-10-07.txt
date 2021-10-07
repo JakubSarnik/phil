@@ -1,0 +1,88 @@
+1. krok lingvistické analýzy - segmentace - rozdělení celku na "rozumné části" (viz minulá přednáška)
+2. ověření segmentace - substituční test (nahradím jednu věc něčím jiným a podívám se, "co to udělá")
+  - Např. nahrazení koncovky slova jinou prokáže, že nahrazující/nahrazované jsou segmenty (zde konkrétně morfy)
+  - Ale pozor! V češtině máme v jednom paradigmatu žeN-ya, žeN-y, ale žeŇ-e
+3. distribuční analýza - řeší problémy s tím, že ne každá substituce je "čistá" (viz ty ženy)
+  - Alternace - střídání
+    - syntagmatické
+      - Např. hrad [hrat]0 vs. hradu [hrad][u]
+      - Nějaký spouštěč v řetěžci (výše je to ta 0) spustí změnu
+      - Nenese význam
+    - paradigmatické
+      - Např. [páni] vs [páňi]
+      - Nemají spouštěč
+      - Motivovány morfologicky
+      - Mění význam
+  - Pokud k sobě nějaké morfy patří (paradigmaticky nebo syntagmaticky), jedná se o alomorfy
+    -> varianty jednoho invariantu, kterému se říká morfém (jazykové invarianty končí na "-em" a říká se jim
+       émické jednotky). (Dále např. u toho hradu máme fony t, d, které jsou v tomto případě (ne obecně!)
+       alofony jednoho fonému /d/. Ale třeba ve slově "ten" je fon [t] alofonem fonému /t/.)
+
+Morfy jsou realizace morfémů, fony fonémů, (semy semémů) ...
+
+Morfém
+  1. Lexikální - lexémy (slovníková položka)
+    - Základní plnovýznamový znak označující substanci, vlastnost nebo děj
+    - Nejčistší lexém je kořen (někdy se tak ale říká i kořenu s derivací)
+  2. Gramatické - gramémy
+    - Vyjadřují gramatické kategorie.
+    - Míra gramatikalizace se liší mezi jazyky i v rámci jazyka diachronně (např. slovanský vid vznikl později).
+  3. Derivační
+    - Např. v "učitelka" je to "i", "tel", "k" ("uč" je kořen, "a" je gramatický morf)
+            v "nosit" je to "i", v "nést" je to 0 (a "nos", "nés" jsou alomorfy).
+
+Supletivismus - zaměňují se celé morfémy, nikoliv jen alomorfy (např. "já" vs "být",
+"človek" a "lidé" místo "člověci) - více morfémů v jednom paradigmatu.
+
+Obecně máme zhruba takovouto stavbu slova:
+  kořen(y) - derivační morfémy - gramatické morfémy
+  - Alespoň v indoevropských jazycích, kde máme málokdy flexi na začátku slova, ale v principu tomu nic nebrání.
+  - Derivační a gramatické morfémy většinou ve formě afixů (v češtině typicky sufixy), ale dále třeba reduplikace,
+    alternace.
+
+Pozn.: Slovní druhy - čím víc se vyjadřují gramatické kategorie, tím striktněji rozlišujeme slovní druhy.
+  Např. v angličtině samo slovo "love" může být jak sloveslo, tak podstatné jméno, podle kontextu.
+
+Gramatické kategorie
+  - Viz též gramémy.
+  - Dělíme na základě sémantické báze (sémantická kategorie - lexikální vyjádření - jmenná gramatická kategorie - slovesná gk):
+    - kvantita - číslovka, příslovce - číslo - vid (aspekt)
+    - klasifikace - označení sém. kategorií - jmenný rod/třída - diateze
+    - deixe
+      - anaforická - zájmena (anaforická, tázací, neurčitá) - určenost - X
+      - subjektivní personální - osobní zájmena - X - osoba
+      - subjektivní temporální - příslovce času - X - čas
+      - subjektivní lokální - příslovce místa - pád
+      - objektivní - předložky místa - pád
+    - modalita - modální částice, sloveso - X - modus
+  - Ve flektivních jazycích se typicky kombinují (jeden gramém vyjádří často pád, číslo i rod).
+
+Jmenný rod
+  - Pozn.: V češtině jsou 4 rody, nejvíce rozvinuty u adjektiv a osobních zájmen
+    - mlad-ý, mlad-á, mlad-é - přechylujeme
+    - Zatímco u substantiv musíme derivovat (liška vs lišák).
+    - V češtině příznakovost "mužskost", "životnost" (privativní opozice).
+      - Nemužské, neživotné - neutrum
+      - Nemužské, životné - femininum
+      - Mužské, neživotné - neživotné maskulinum
+      - Mužské, životné - životné maskulinum
+  - Některé jazyky mají rod životný a neživotný (chetitština).
+  - Jiné jazyky rody nemají prakticky vůbec (angličtina).
+  - Zvláštním případem jsou třídy (např. v angličtině se všechny názvy lodí pojí se "she").
+    - Typicky ale východní Afrika (bantu).
+  - Zajímavé u zájmen - v indoevropských jazycích poznáme rod u osobních zájmen jen ve třetí osobě, ale třeba
+    v arabštině i u první a druhé osoby.
+    - on/ona/ono/oni/ony/ona vlastně nejsou zájmena osobní, ale ukazovací (whoa!)
+
+Číslo
+  - Číslovky se mezi jazyky liší, často i podle toho, co dané spolčenství muselo počítat (v Evropě desítky a stovky (kvůli dobytku, např.),
+    v Austrálii 1, 2, 3, hodně).
+    - Celá antická matematika si vystačila bez nuly.
+    - Ugrofinové počítali v osmičkové soustavě (bez palců, nebo možná klouby na pěsti), oblíbená je i dvanáctková (z Babylonu),
+      do Francouzštiny z nějakého preindoevropského substrátu pronikl systém dvacítkový.
+  - Existují např. systémy se singulárem, plurálem, neurčitým počtem.
+  - Dále třeba duál, který existoval i ve staré češtině (ale ten často označuje něco, co v páru tvoří něco "výmečného"
+    např. dva koně ve spřežení - duál vs dva koně na louce - plurál).
+  - Paukál - něco, co se vyskytuje ve skupině.
+  - Reflektována i u verba finita, ale tam je to problematické - tak jako "my" není množné číslo od "já", tak "děláme" není
+    "zmnožnění" "dělám".
