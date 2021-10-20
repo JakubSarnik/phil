@@ -1,0 +1,32 @@
+Nazalizace vokálů v češtině (např ve slově banka) je ukázkou *koartikulace* (ovlivňování hlásek okolními
+hláskami) - nedá se říct, že vyslovujeme jednotlivé hlásky "diskrétně"/"separovaně", ale pohyby řečového
+ústrojí na sebe plynule navazují.
+  - Mozek ale asi vnímá vrcholy hlásek a tedy se nám zdá, že ve slově "banka" je 5 hlásek.
+  - Malé děti, co neumí číst a psát, mívají problém s určením hranice hlásek.
+
+Nazálních vokálů je v jazycích světa většinou méně než nenazalizovaných.
+  - Možné vysvětlení je složitější artikulace i přehlušení rozdílu mezi vokály nazální rezonancí.
+
+V IPA u diftongů ten oblouček pod druhým vokálem označuje neslabičnost.
+  - Slabičnost: louka (s diftongem)
+  - Neslabičnost: doučit (dvě samostatné hlásky tvořící dvě slabiky)
+
+Hláska není konkrétní zvuk, je to spíš soubor vlastností.
+  - Např.: hláska [a] odpovídá "všem možným" "a", které můžou vydávat různí lidé
+    po různou dobu, s minimálními změnami, ...
+  - Je to tedy zobecnění celého souboru zvuků.
+
+Proč vůbec používáme fonetickou transkripci?
+  - V běžném pravopisu neplatí princip jednoznačnosti.
+    - Pravopis zaznamenává spíše obsah než zvuky.
+    - Případně zvukovou podobu jazyka v minulosti (někdy i dávné, viz angličtina).
+  - Pravopis je také závislý na konkrétním jazyku (a může znamenat něco jiného v češtině a v anglištině),
+    - V některých jazycích hláskový pravopis vůbec není (čínské znaky).
+  - Př.: Včera jsem byl doma. / Včera jsem bil Doma.
+
+Pozn.: Přízvuk je v češtině relevantní pro rozlišení významu, dokáže totiž rozlišit mezi jedním a dvěma
+       slovy: oni spolupracovali / oni spolu pracovali.
+
+Pozn.: Fonologická transkripce zaznamenává jen ty zvukové prvky, které rozlišují význam.
+
+
