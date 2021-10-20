@@ -1,0 +1,139 @@
+Z minula: Klíčová otázka analytické lingvistiky:
+  Jaký je nejúspornější formální aparát, který dokáže předpovědět všechny gramatické (akceptovatelné)
+  jevy a nepředpoví žádný negramatický.
+
+Počátky 2. generace kognitivních věd
+  - 70. léta 20. století
+  - Reakce na "1. generaci" kognitivních věd
+  - Kognitivní psychologie - E. Rosch
+    - Cognitive representation of semantic categories (1975)
+    - Cognition and Categorization (1978)
+  - V lingvistice - pragmatický obrat
+    - Odklon od toho, jak jazyk vypadá, k tomu, jak se jazyk používá
+  - Filozofie "zkušenostního realismu" (experiental realism)
+    - Koncept "vtělesnění" (embodiment)
+      - Svět kolem nás sice objektivně existuje, ale my o něm dokážeme uvažovat jen tak, jak nám umožňuje tělo
+  - Kolaps "generativní sémantiky" v lingvistice
+    - Charles Fillmore - "sémantika rámců (frame semantics)"
+    - Ronald Langacker - space grammar -> kognitivní gramatika (cognitive grammar)
+    - Leonard Talmy - prostorová sémantika, silový dynamismus
+    - George Lakoff - kategorizace, metafora
+    - Chomsky sémantiku vůbec neřešil, ale jeho následovníci se snažili aplikovat principy generativní syntaxe
+      i na ni
+    - Východiska analytické lingvistiky na sémantiku však aplikovat prakticky nelze
+
+"Osvícenské" pojetí mysli X zkušenostní realismus
+  - Nezávislá na těle    X Větlesněná (na poznání mysli je třeba zkoumat mozek, a mozek nemůže existovat bez těla)
+  - Vědomá               X Nevědomá   (96-98 %)
+  - Univerzální          X Závislá na zkušenosti
+  - Logická, racionální  X Imaginativní
+  - Nezávislá na emocích X Neoddělitelná od emocí (Antonio Damasio - Descartes' error)
+
+Charakteristika kognitivní lingvistiky
+  - "Hnutí", ne "teorie"
+  - Centralita *významu*
+  - Pozn.: Leondard Talmy - Toward a Cognitive Semantics
+  - Pro kognitivní lingvisty gramatika je sémantická
+  - Centralita *mluvčího* (pozn.: Chomského idelání mluvčí mu umožnil mluvčího zcela vypustit)
+  - Model založený na *užívání* jazyka
+  - Budování modelu "bottom-up" (od jednotlivých aktů užití jazyka až k jazykovému systému jako celku)
+
+Dělení kognitivní lingvistiky
+  - Kognitivní sémantika - teorie o jazykovém významu
+  - Kognitivní přístupy ke gramatice - význam je také v jádru, ale zkoumá i formální konstrukce
+    - Pozn.: "Kognitivní gramatika" je jedna konkrétní teorie
+
+Kognitivní přístupy k významu
+  - Sémantika rámců (frames) - Charles J. Fillmore
+  - Teorie konceptuální metafory (conceptual metaphor) - George Lakoff, Mark Johnson, Zoltán Kövecses, Raymond Gibbs Jr., ...
+  - Teorie mentálních prostorů (mental spaces) - Gilles Fouconnier
+  - Teorie konceptuální integrace (blending) - Mark Turner
+  - Teorie lexikálních konceptů a kognitivních modelů (LCCM) - Vyvyan Evans
+  - ...
+
+Kognitivní přístupy ke gramatice
+  - Kognitivní gramatika - Ronald Langacker
+  - Konstrukční gramatiky
+    - Kognitivní konstrukční gramatiky - Adele Goldberg
+    - Vtělesněná konstrukční gramatika - Nancy Chang, Benjamin Bergen
+    - Radikální konstrukční gramatika - WIlliam Croft
+    - ...
+
+Klíčové závazky kognitivní lingvistiky
+  - Závazek zobecnění
+    - Snažit se nacházet obecné principy, které platí pro všechny aspekty lidské řeči/jazyka (tj. význam, gramatiku, fonologii, ...)
+    -> antimodularismus
+  - Závazek kognitivní
+    - Budovat popis jazyka tak, aby byl v souladu s poznáním o lidské mysli (a mozku) z jiných vědních disciplín
+    -> interdisciplinarita
+    -> konvergentní dokazování
+
+Klíčová otázka kognitivní lingvistiky:
+  Jaké kognitivní (a neurální) mechanismy lidé zapojují, když užívají *jazyk*?
+
+Shrnutí
+  - Dokážu uvést základní rozdíly mezi 1. a 2. generací kognitivních věd?
+  - Dokážu zařadit následující jména k jednotlivým generacím kognitivních věd? Turing, Rosch, Chomsky, Damasio, ...
+  - Dokážu charakterizovat zkušenostní realismus jako filosofii, na níž stojí 2. generace kognitivních věd?
+  - Umím vyjmenovat a charakterizovat 2 základní filosofické závazky moderní kognitivní lingvistiky?
+
+Doporučená literatura
+  - Philosophy in the flesh (George Lakoff, Mark Johnson)
+  - Women, Fire and Dangerous Things (George Lakoff)
+  - Cognitive Linguistics, a complete guide (Vyvyan Evans)
+  - The Oxford Handbook of Cognitive Linguistics (Dirk Geeraerts, Hubert Cuyckens)
+
+Check test z minula
+  - Co znamená, že nějaké slovo něco znamená?
+  - Jak vypadá typická "lež"?
+  - Co musí člověk znát, aby rozuměl českému pořekadlu "Čas jsou peníze"?
+
+"Klasické" pojetí kategorií
+  - Již Aristoteles
+  - Soubor nutných a dostačujících podmínek/rysů
+  - Inherentní rysy (židle má rys - nohy - bez ohledu na to, jestli se na ni dívám, nebo ne)
+  - Struktura kategorie - rovnocenný status členů (není žádná židle "židlovatější" než jiná židle)
+  - Ostré hranice kategorií - člen vs. "nečlen" (buď je něco židle, nebo ne)
+  - Příklad: čtverec
+    - Uzavřený dvourozměrný tvar
+    - Má čtyři strany
+    - Všechny strany mají stejnou délku
+    - Všechny vnitřní úhly mají stejnou velikost
+    - => Toto je soubor podmínek, které jednoznačně čtverec charakterizují.
+    - Naopak jsou věci, co roli nehrají: barva, natočení, velikost, ...
+
+A co abstraktní kategorie?
+  - Co je to láska?
+  - Co je to svoboda?
+  - Co je to štěstí?
+  - Problém vyjmenovat nutné a dostačující rysy
+
+"Prototypové" projetí kategorií
+  - Ludwig Wittgenstein
+    - Kategorie *hra*
+    - Spíše "rodinné" podobnosti než ostré vymezení pomocí nutných a postačujících podmínek
+      - Nemusíme najít žádný rys, co by všechny prvky sdílely, ale přesto si mohou být "podobné"
+      - Každý ovšem sdílí o nějakým dalším nějaké rysy
+  - Eleanor Rosch
+    - Koncept *prototyp*
+      - Příslušnost ke kategorii není dána nutnými a postačujícími podmínkami, ale mírou podobnosti
+        k nějakému prototypu
+    - Studie ze 70. let
+    - Příklad: kategorie pták (nemusí mít peří, nemusí létat, ..., ale prototyp existuje a každý se mu nějak podobá)
+      - Odstupňovaná míra podobnosti s prototypem -> vnitřní struktura kategorie již nemá rovnocenný status všech
+        členů a hranice nemusí být ostrá
+    - Úrovně kategorií
+      - Nadřazená úroveň    [nábytek]       [zvíře]
+      - Bazální úrověň   [křeslo][stůl]   [pták][pes]
+      - Podřazná úroveň [houpací k.]... [pštros]...
+  - Brent Berlin a Paul Kay
+    - Výzkum výrazů pro označování základních barev
+    - "Fokální" barvy
+  - Linda Coleman a Paul Kay
+    - Prototype Semantics: The English Word Lie
+    - Prototyp *lži*
+      - Mluvčí (S) se obrací na adresáta (A) a pronáší propozici (P)
+      - P je nepravdivá ("faktograficky")
+      - S věří, že P je nepravdivá (mnohem důležitější než "faktografická" nepravdivost P)
+      - Pronesením P se S snaží oklamat A (opět mnohem důležitější než ^)
+
