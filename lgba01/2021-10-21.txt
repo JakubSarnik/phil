@@ -1,0 +1,116 @@
+Pozn.: V češtině jsou 4 rody u maskulin a jsou lexikalizovány (součástí kmene) - při převodu se musí
+přechylovat. U adjektiv jsou rody jen 3 (starší systém) a jsou gramatikalizovány (součástí kmenu
+není, lze od jednoho kmene vytvářet adjektiva různých rodů).
+
+=== Gramatická kategorie pádu ===
+
+Hindština má dva pády (což je samozřejmě minimum pro to, abychom se o pádech vůbec bavili)
+  - Přímý
+  - Nepřímý (napevno aglutinované postpozice, které vznikly ze "záložek")
+  - (Jen v plurálu: vokativ)
+
+Nejuniverzálnější člěnení
+  - Vokativ
+    - Nikdy se nezapojuje do syntaktických vzorců, technicky vzato je vokativ vždy
+      samostatná věta/výpověď. (Ačkoliv může být rozvinutý.)
+    - Funkce může být vyjádřena jiným pádem. Slovenština funkci vokativu má, ale formálně
+      ji vyjadřuje nominativem.
+  - Gramatické pády (vyznačují syntaktické vazby)
+    - Nominativ
+      - Pád podmětu
+    - Akuzativ
+      - Pád předmětu
+  - Lokální pády / pády okolností
+    - Můžou jim konkurovat předložky/adverbia/...
+
+Pozor na rozlišení mezi funkcí a prostředkem (jedna pádová koncovka může vyjadřovat různé funkce).
+
+Pozn.: V češtině například formální instrumentál vyjadřuje jak vlastní instrumentál ("přijel autem"),
+       tak komitativ ("přijel s Karlem"). V nářečích Čech se někdy rozdíl stírá a používá se vždy
+       předložka "s" ("krájel s nožem").
+
+Pádová funkce | 0  | +  | -
+Koherence     | k0 | k+ | k-
+Adherence     | a0 | a+ | a-
+
+Koherence - kontakt
+Adherence - blízkost bez přímého kontaktu
+0         - bez pohybu
++         - pohyb k
+-         - pohyb od
+
+k0 (lokativ)                = české předložky v, na0
+k+ (direktiv, illativ)      = do, na1
+k- (partitiv, genitiv)      = z, s
+a0 (sociativ, instrumentál) = i, nad0, za, pod0
+a+ (dativ, adlativ)         = k, nad1, pod1
+a- (ablativ)                = od
+
+=== Gramatická kategorie určenosti ===
+
+Typicky se vyjadřuje členem (němčina) nebo zájmenem (čeština).
+Člen může být v prepozici i postpozici (rumunština, bulharština), navíc jeho existence nesouvisí
+s (ne)flektiviou jazyka (stará řečtina má určitý člen, přestože je to plně flektivní jazyk).
+
+Pozn.: Ve slovanských jazycích došlo k mnohým kontrakcím ("dobrij" -> dobrý), nejvíc je to rozšířeno
+       v češtině, protože dost možná jev kontrakce vznikl na Moravě a rozšířil se do celého slovanského
+       areálu.
+
+=== Slovesný rod (diathese) ===
+
+Typicky rozdíl mezi aktivním a pasivním tvarem.
+Může být ale bohatší, např. vyjadřování reflexivity ("myju se"), media.
+
+progresivita | regresivita | transgresivita |
+     -       |      -      |       -        | sedí, prší
+     -       |      +      |       -        | je umýván
+     -       |      -      |       +        | x vidí y 
+     +       |      -      |       -        | x přichází
+     -       |      +      |       +        | x je umýván y
+     +       |      -      |       +        | x myje podlahu 
+     +       |      +      |       -        | x nemyje
+     +       |      +      |       +        | x si myje ruce
+
+Progresivita   - vychází ze subjektu
+Regresivita    - zasahuje subjekt
+Transgresivita - podílejí se dva
+[Nemá to být tranzitivita?]
+
+=== Čas a vid ===
+
+Přestože některé jazyky čas nemají (indonéština), typická dichotomie je mezi dějem přítomným
+a nepřítomným (který se potom dále dělí, ale většinou alespoň minulost).
+
+Často se pojí čas s videm.
+
+Např. staré slovanské jazyky ale měly systém založený na protikladu imperfekta a aoristu (tedy děje
+ukončeného a neukončeného).
+
+Pozn.: opakovanost (chodí vs. chodívá)
+
+Futurum je v indoevropských jazycích většinou složené, odvozené od présenta.
+
+=== Způsob (modus) ===
+
+Základní vyjádření děje je indikativ (bezpříznakový modus).
+Mluvčí může k ději zaujmout nějaké stanovisko
+  - imperativ  - vyžaduji děj
+  - konjunktiv - děj je možný
+  - optativ    - děj je žádoucí
+
+Slovanské jazyky jako imperativ používají původní starý optativ.
+Pozn.: Čeština nemá (navzdory výuce na základní třídě) optativ. Takzvaný "přací" způsob
+       není gramatickou kategorií, ale jen nějakou analytickou konstrukcí s částicemi.
+
+=== Osoba ===
+
+Úzce souvisí s osobními zájmeny.
+Viz předchozí pojednání o tom, že osobní zájmena v indoev. jazycích nemají číslo a rod
+a tedy my, vy, on, ona, ono, oni, ony, ona nejsou osobní zájmena.
+
+"Skutečné osoby jsou jen první a druhá."
+
+Lze rozlišovat exkluzivitu a inkluzivitu (např. u "my").
+
+Pozn.: V arabštině se rozlišuje rod u druhé osoby singuláru (ty-muž vs. ty-žena).
+
