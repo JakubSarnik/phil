@@ -1,0 +1,10 @@
+IPA obsahuje pouze znaky pro obvyklé hlásky, ale je schopná vytvořit i znaky pro další možné hlásky,
+typicky diakritikou (např. neznělé nazály ve velštině se vytvoří diakritikou od znělých).
+
+Pozn.: V testu bude čtení IPA (české).
+
+Pozn.: V češtině je [a] pro střední nízký vokál (chyba ve slidech).
+
+Ve spektrogramu: čím černější, tím vyšší intenzita (jinak závislost frekvence na čase).
+
+
