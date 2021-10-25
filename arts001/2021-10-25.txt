@@ -1,0 +1,238 @@
+Shrnutí prototypového pojetí kategorií
+  - Kategorie organizována na základě "rodinných" podobností členů k prototypu
+    -> Členství v kategorii je spíše otázkou míry než binární člen vs. nečlen
+    -> Kategorie mohou mít neostré hranice
+  - Kategorie mají kognitivní povahu (nejsou entitám inherentní) a tvoří sítě
+    - Základem kategorizace je to, jak kognitivní subjekt přistupuje ke světu
+  - Kategorizace může být závislá na kontextu (např. to, co je vnímáno jako lež, je kontextově závislé)
+    -> Kategorizace může být kulturně specifická (např. prototyp ovoce záleží na tom, kde žijeme)
+
+Strukturalistické pojetí významu (strukturální sémantika)
+  - Klíčová výchozí otázka: "Co znamená (slovo) X?"
+  - Slova *symbolizují* koncepty
+  - Význam = soubor hodnot (sémantických rysů) v systému jazyka
+    - Pod "rysy" si můžeme představit rysy kategorií
+  - Konstruování sémantického systému skrze *porovnávání* (diference)
+    - Např.: Který rys je ten, který jedno slovo má a druhé nemá?
+  - Soubor *pravdivostních podmínek* (za kterých bude použití slova vytvářet pravdivou promluvu,
+    faktografický popis situace)
+    - Když použiji slovo "stůl" ("Tohle je stůl"), musí daná věc naplňovat rysy stolu
+
+Př.: Co znamená slovo "hřebec" (oproti slovu "kobyla")?
+  - Význam slova "hřebec" v rysech:
+    Koňský+, maskulinní+, dospělý+, plodný+
+  - Význam slova "kobyla" v rysech:
+    Koňský+, maskulinní-, dospělý+, plodný+, plodnost naplněna+ (oproti slovu klisna, proto musíme rozlišit)
+
+(+ = je přítomen, - = není přítomen)
+
+Př.: "bachelor":
+  - Mužský+, nedospělý-, nesezdaný+, ...
+
+Př.: "girl"
+  - Mužský-, nedospělý+
+  - Rys "nesezdaný" vůbec neřešíme
+
+Příklad sítě (analýza množiny anglických lexikálních jednotek):
+            [mužský] [ženský]
+[dospělý]     man      woman
+[mladý]       boy      girl
+[nesezdaný] bachelor spinster
+
+Ale: Například slovo "papež" naplňuje rysy dospělého nesezdaného muže, ale nenapadne nás v souvislosti
+     s konceptem starého mládence (bachelor). Proč? Asi hraje roli nějaké očekávání, společenské normy, ...
+     (U běžného člověka se očekává, že se do určitého věku ožení, u papeže ne; stejně tak bychom to
+     neočekávali u astronauta, který žije sám na Marsu a ani si nikoho vzít nemůže.)
+  -> Kulturní faktory zde opět ovlivňují kategorizaci (slova bachelor), ale to stejné může být i u běžnějších
+     slov typu "girl".
+
+Kognitivní přístup k významu tedy neřeší "objektivní" význam slov, ale spíš "jak mluvčí Y rozumí (slovu) X".
+  -> Kognitivní sémantika je tedy sémantikou prozumění - co mluvčí zamýšlí v textu sdělit a co posluchač pro
+     daný text "konstruuje" (co si pod tím představuje).
+  -> hlavní rozdíl mezi strukturalistickou a kognitivní sémantikou
+  - Mluvčí produkuje slova a konstrukce v textu jako "nástroje" specifické aktivity - evokování patřičného
+    porozumění. (V praxi: přizpůsobím promluvu kontextu a očekáváním/znalostem posluchačů.)
+    -> Slova a konstrukce evokují rámce (frames), idealizované kognitivní modely, atd.
+       Skrze evokaci dochází k porozumění a porozumění nás zajímá.
+
+Slovníkové pojetí významu
+  - Příznačné pro analytickou/strukturální lingvistiku, ne pro kognitivní lingvistiku
+  - Rozlišuje sémantiku a pragmatiku
+    - Pragmatice přisuzuje rozdíl mezi významem slova a jejím použitím (když například použijeme slovo "hřebec"
+      metaforicky, bez přítomnosti rysu "koňský"
+  - Význam je definovatelný podobně jako heslo ve slovníku
+  - Př.: "macecha" - nevlastní matka, manželka nebo partnerka otce
+    - Jakýkoliv koncept splňující tuto definici naplňuje slovo "macecha"
+    - Ale to nemusí být kompletní popis situace. Člověk si za tím představí většinou osobu, která má nějaké
+      negativní vlastnosti v souvislosti s nevlastními dětmi (za což vděčíme zkušenostem s texty, kde se toto
+      slovo vyskytuje)
+
+Encyklopedické pojetí významu
+  - Slova (formy) potenciálně zpřístupňují strukturovanou množinu nejazykových znalostí a zkušeností
+    - Slovo tedy "aktivuje" "encyklopedické" znalosti
+  - Neexistuje principiální rozdíl mezi sémantikou a pragmatikou (kontextově nepodmíněným a podmíněným
+    významem) -> vše, co se při kontaktu se slovem evokuje, závisí na kontextu
+  - Znalosti jsou strukturované (nadřazenost, podřazenost, sítě, ...)
+  - Encyklopedický význam vzniká v kontextu užití (slova, konstrukce)
+    - Nedá se odtrhnout od okamžiku užití
+    - Kontextem užití ale může být i snaha vytvořit slovník
+  - Slova jsou "vstupní body" k encyklopedickým znalostem místo symbolizace ohraničeného významu
+    - Představa Wikipedie, kde je termín propojen s jinými odkazy
+  - Encyklopedická znalost je dynamicky proměnlivá (pod slovem "pes" si můžeme představit dosti rozdílné
+    věci podle toho, jestli máme 4 roky, 20 let nebo 80)
+  - Př.: Tady už je význam slova "macecha" mnohem přesněji uchopitelný
+
+Sémantika rámců
+  - 60. a 70. léta 20. století - E. Goffman, CH. Fillmore
+  - Koncept rámce
+    - Předcházely tomu koncepty jako sémantická pole (slova a jejich významy tvoří pole)
+      - Nůž, gauč, vidlička, lžíce
+      - Nákup, prodej, neděle, cena
+      - Banán, karburátor, brzda, akcelerátor
+      - ^ Jeden pojem z řady vždy "nesedí", protože všechny ostatní jsou součástí jednoho sémantického pole
+        a ten čtvrtý není. Nemůžeme ale často "na první dobrou" říct, proč.
+    - Sémentické role (příklad s rámcem obchodní události)
+      - Kupující, prodávající, zboží, peníze, cena, ...
+      - Když potom mám "nákup", ihned vím, od koho jdou peníze kam, od koho kam jde zboží, ...
+      - Kdybychom řekli "nákup" a peníze šly od "prodávajícího" ke "kupujícímu", tak nám to nedává smysl
+        -> Situace nezapadá do rámce, neodpovídá naší zkušenosti
+    - Strukturované mentální entity, díky kterým rozumíme slovům a pojmům
+    - Když nějaké slovo neevokuje rámec, tak mu nerozumíme
+
+Konstruování (construal)
+  - Př.: Diagram s vázou / siluetami dvou tváří
+  - Můžeme si "přepnout", jestli zrovna vidíme tváře, nebo vázu, ale současně to vidět nemůžeme
+  - Nejde tu o jazyk, konstruování funguje *i* v jazyce, ale není na něm závislé (uplatňujeme i jinde)
+  - V rámci sémantiky rámců
+    - Profil - to, na co upřu pozornost vs. báze
+    - Př.: "přepona"
+      - Když to chci vysvětlit, musím se odvolat na jiný koncept, který je součástí téhož rámce
+        -> zde "pravoúhlý trojůhelník" (stejně tak když si to chci představit)
+      - Pravoúhlý trojúhelník tvoří bázi a přepona je profil nejdelší strany takového trojúhelníku
+      - Přepona pak zase může fungovat jako báze pro profilování pojmu odvěsna
+    - Profil tedy specificky konstruuji (fokalizuji)
+    - Další příklady: "loket", "nehet" (bází je tělo)
+      - Koncept rozsahu (scope) - můžeme si zúžit bázi na nějakou konkrétnější část, např. na ruku
+    - Další příklady: "land" vs. "ground"
+      - "land" spíše v rámci cestování lodí, "ground" zase cestování vzduchem
+
+Kognitivní pojetí významu
+  - Přenášení kategorie na entitu v mimojazykovém světě (v tradičním generativistickém pojetí)
+                                                NAHRAZENO
+    Konceptuálním obsahem s procesem konstruování (obsah může být stejný pro "ground" i "land", ale
+    slova odlišíme tím, co označíme za bázi a co za profil)
+    - Platí i pro gramatiku - "Piccasso namaloval obraz" profiluje tvůrce a upozaďuje výsledek,
+      kdežto "Obraz byl namalován Piccassem" profiluje výsledek a upozaďuje tvůrce
+  - Koncept je vztažení ke kategorii, jazykový význam *není* shodný s konceptem (protože potřebujeme
+    i to konstruování - jak rozumíme kategorizaci)
+
+Doporučená literatura
+  - Linguistic Categorization (John R. Taylor)
+  - Louder Than Words (Benjamin K. Bergen)
+  - The Oxford Handbook of Cognitive Linguistics (Dirk Geeraerts a ještě kdosi)
+
+Otázky k dnešní přednášce byly:
+  - Jak se na středních školách běžně vykládá pojem metafora?
+    - Přenesení významu na základě vnitřní  podobnosti
+  - Kde se v názvu filmu "Tucet špinavců" nachází metafora, jak tomuto názvu rozumíme?
+    - Špinavec - nemorální, kriminální člověk (špinavost není fyzické znečištění, ale otázka
+      morálních kvalit)
+  - Jakými jazykovými prostředky se v češtině mluví o čase a jevech s časem souvisejících?
+    - Gramatický slovesný čas (vztah linearity minulost - přítomnost - budoucnost), slovesný vid,
+      pojmy prostoru ("před 5 minutami" vs. "před domem", "blížíme se k polovině semestru")
+      -> jedná se o metaforu prostoru pro čas
+      -> metafory jsou velmi zásadní pro uvažování
+
+Obrazová schémata (image schemas)
+  - Mark Johnson
+  - Abstraktní mentální struktury vzniknuvší na základě funkce našich fyzických těl a jejich interakcí s vnějším světem
+    - Vznikají na základě zkušenosti
+    - Fungování těl - např. pohybujeme se v prostoru
+  - Dávají jim vzniknout
+    - Konkrétní fyzické zkušenosti
+    - Opakovaná zkušenost
+    - Abstrakce z konkrétní zkušenosti
+  - Struktury jsou "prelingvistické"
+  - Jsou zdrojem abstraktního myšlení a konceptuální metafory
+
+Příklady obrazových schémat: nádoba, dotyk, nahoru/dolů, škála, vpředu/vzadu, pohyb, část/celek, centrum/periferie,
+  blízko/daleko, objekt, rovnováha, ...
+
+Nejde o ta konkrétní slova: nádoba je něco, co má vnitřní a vnější prostor oddělený nepropustnou bariérou
+  - Koncept "bytí v něčem"
+
+Závislost na těle: v našem prostředí funguje gravitace a zkušenost nám tedy ukazuje, že věci padají jedním směrem
+  - shora dolů
+
+Hledání systematičnosti - např. o sporu/argumentaci hovoříme podobně, jako o boji či válce (rozmetat argumenty, trefa do černého, ...)
+  -> teorie konceptuální metafory
+
+V klasickém pojetí metafory je to čistě jazyková záležitost - poetický/rétorický prvek sloužící jako ozdoba ve specifických
+textech, které se v "běžném životě" nepoužívá.
+
+Kognitivní pojetí metafory: Metaphors We Live By (Lakoff, Johnson, 1980)
+  - Metafora je vztah projekce z konceptuální domény Y (zdrojová doména) do jiné konceptuální domény
+    X (cílová doména)
+  - Konceptuální - nejde nutně o jazyk
+  - Metafora je tedy kognitivní struktura, která umožňuje porozumět jedné myšlence nebo konceptuální doméně
+    v pojmech domény jiné (a pojem zde nemusí vztahovat jazykový prvek)
+  - Metafora je především prvek myšlení a to běžného myšlení (žádná ozdoba nebo poetický nástroj)
+  - Dokonce je to základní prvek myšlení a zdroj abstraktního myšlení
+
+Příklad projekce (mapping)
+  - Doména války -> doména verbálního sporu
+  - Ozbrojený konflikt -> slovn9 konflikt
+  - Boj -> výměna promluv
+  - Vojenské strategie -> konverzační strategie
+  - Akce (útok, obrana) -> akce (argumentace)
+  - Účastníci (znepřátelené strany) -> účastníci (diskutující)
+  - ...
+
+Metafora vs. metaforický výraz
+  - "očima *planoucíma hněvem*" <- metaforický výraz (ne metafora)
+  - Metafora je naopak struktura mapující doménu ohně na doménu hněvu
+  - Zápis metafory: hněv je oheň
+  - Jedna metafora může být vyjádřena různými metaforickými výrazy:
+    - Rozpálený doběla
+    - Doutná v něm hněv
+    - Plive oheň
+    - ... (vše realizace jediné metafory "hněv je oheň")
+  - Navíc tato metafora není zdaleka jen jazyková - hněvající se emoji je červené, v animovaném filmu
+    jsou plameny místo očí / pára z uší, ...
+  - Za povšimnutí stojí, že s ohněm máme přímou fyzickou zkušenost, kdežto hněv je abstraktní (a proto jej uchopujeme
+    nepřímo, pomocí metafory)
+
+Příklady konceptuálních metafor:
+  - Čas jsou peníze (čas je ekonomický zdroj)
+    - Plýtváš mým časem
+    - Ušetřil jsem spoustu hodin
+    - Můj čas je drahý
+  - Personifikace (nelidská věc je člověk)
+    - Rakovina ho dostihla (představa závodu, pronásledování)
+  - Orientační metafory
+    - Víc je nahoře
+      - Měl vysoký počet zásahů
+      - Můj plat se zvedl
+      - Dáno zkušeností - čím víc vody ve sklenici, tím výš je hladina -> v mozku aktivace center pro vnímání vertikality
+        i množství a metafora se fyzicky realizuje v mozku neurálním propojením těchto center
+
+Příklad konvergentního dokazování
+  - Otázka: Je metafora skutečně záležitostí myšlení (též "nejazykového"), nebo pouze záležitostí jazyka?
+  - Washing Away Your Sins (Zhong, Liljenquist)
+    - Studie, která vystavovala subjekty situacím, kde šlo o posouzení morality
+      - "Popište nám, kdy jste se zachovali nemorálně"
+      - "Popiště nám, kdy jste se zachovali morálně"
+    - Subjekty neznaly cíl studie
+    - Jako odměnu si mohli vzít tužky nebo dezinfekční kapesníšky
+    - Zjištěna korelace - lidé, co mluví o svých "hříších", si vzali spíš kapesníčky než tužky
+    - Metafora "morálnost je čistota" (a nezávisí to tu na jazyku)
+  - Experiencing Physical Warmth Promotes Interpersonal Warmth (Williams, Bargs)
+    - Lidé držící teplý hrníček s kávou hodnotili osoby na obrázcích mnohem více soudy jako "milý",
+      "přátelský" než lidé, co hrníček nedrželi
+    - "Srdečnost je teplo"
+  - Teorie konceptuální metafory (vzniknuvší pro analýzu textů) byla potvrzena i nelingvistickými výzkumy
+  -> konvergentní dokazování
+
+Doporučená literatura
+  - Metaphors We Live By (Lakoff, Johnson) - má i hezký český překlad
+  - Metaphor (Zoltán Kovecses)
