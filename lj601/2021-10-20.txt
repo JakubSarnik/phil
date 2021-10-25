@@ -1,0 +1,7 @@
+potest   - 3. osoba, singulár, indikativ, presens, aktivum, může
+aberitis - 2. osoba, plurál,   indikativ, futurum, aktivum, budete nepřítomni
+ades,    - 2. osoba, singulár, indikativ, presens, aktivum, pomáháš
+         - 2. osoba, singulár, imperativ, -,     , -      , pomáhej
+
+Na slidech zase text "De Pygmalione"
+
