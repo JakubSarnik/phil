@@ -1,0 +1,151 @@
+Otázky z minula:
+  - Jaká je (podle G. Lakoffa) rozdíl mezi "přímou kauzací" a "systemickou kauzací" ve vztahu k jazyku?
+    - Pro přímou kauzaci máme jazykové prostředky (v dostatečném množství jazyků), kdežto systemickou kauzaci
+      můžeme pozorovat / můžeme o tom uvažovat, ale nemáme pro to specializované jazykové prostředky.
+    - To, že nemáme jazykové prostředky pro vyjádření systemické kauzace, naznačuje, že se nám o ní hůř uvažuje
+      (než o přímé kauzaci) - protože jazyk a mysl jsou podle 2. generace KV propojené.
+    - Příklad: přímá kauzace      - zločinec páchá kriminální čin
+               systemická kauzace - kriminální činy jsou důsledkem sociální situace
+    - Příklad: klimatické změny - komplikované na celkové pochopení
+  - Jak lze definovat konzervativní a progresivní politické postoje?
+    - Konzervativní - udržuje status quo
+    - Progresivní   - snaží se změnit status quo
+  - Jakám způsobem lze přistupovat k morálce z perspektivy moderních kognitivních věd?
+    - Existují nějaké predispozice k vnímání jistých morálních kategorií, ale veklý je i vliv prostředí.
+    - Představa vtělesnění - morálka není soubor abstraktních norem ležících "mimo člověka", ale je spojena
+      s myšlením a tělem.
+
+[Článek z Reflexu (nebo Respektu?) o Trumpovi ze dne 8.11.2020]
+
+Soutěžené koncepty
+  - Jak rozumíme pojmu "regulace"?
+    - Nezajímá nás "co znamená slovo regulace", ale jak mu rozumíme (viz předchozí přednáška).
+    - Regulace toku řeky, ale i regulace trhu
+  - Máme společné jádro konceptu (to většinou vychází z přímé fyzické zkušenosti), ale koncept samotný je mnohem
+    obsáhlejší a vstupují do hry faktory jako světonázor, morální přesvědčení, vzdělání, emotivní nastavení, ...
+  - Nemají "objektivní obsah"
+  - Další soutěžené koncepty: demokracie (co je a co není správné pro ideální demokracii?), svoboda, umění,
+    rodina, manželství, ...
+  - Velká většina politického diskurzu se právě točí kolem soutěžených konceptů - ale o tom často neuvažujeme!
+    - Většina z nás má pocit, že "svoboda" má objektivní koncept a nedovedeme si představit, že ostatní můžou
+      takovému konceptu rozumět jinak.
+  - Velká část soutěžených konceptů není morálně neutrální - morální rovina tvoří zásadní součást porozumění
+    danému konceptu.
+
+Rámcování
+  - Zasazujeme situaci (entitu nebo koncept) do většího konceptuálního rámce.
+  - Jak rozumíme pojmu "daňová úleva"?
+    - Část daně, co platit nemusím.
+    - Je to dobré? Špatné?
+      - Pro toho, kdo nemusí platit daň, je to asi spíš dobře.
+    - Výraz "úleva" evokuje rámec "zátěž".
+      - Opět fyzická zkušenost s fyzickou zátěží, co neseme.
+      - Úleva je odstranění zátěže.
+    - Člověka, co mi dá daňovou úlevu, budu mít spíš "rád", stejně jako člověka, co mi pomůže nést těžká břemena.
+    -> Rámec zátěže obsahuje mnohem víc, než by se na první pohled zdálo, včetně morálních východisek
+       (kdo nás zatíží, je zlý, kdo nám uleví, je dobrý).
+    -> Konceptuální metafora "daňě jou zátěž"
+       (Př.: "Daně jsou trest za špatné účetnictví")
+    -> Toto není objektivní - na daně se dá dívat jako na investice (umožňují třeba veřejnou infrastrukturu).
+      - To, že můžeme používat třeba internet, jsou naše "dividendy" z daní (amerických daňových poplatníků).
+      - Při zasazení do rámce investic se naráz díváme na člověka, co nám dává "úlevu" (která se teď musí jmenovat
+        jinak, třeba "daňový zákaz"), jinak, včetně jiného emocionálního vztahu k němu.
+  - Další typický příklad: terorista vs. bojovník za svobodu
+  - Kterémukoliv slovu rozumíme pouze ve vztahu k určitému pojmovému rámci (Ch. Fillmore).
+  - Rám(c)ování - zasazování pojmů do specifických pojmových rámců.
+    - Vesměs vědomá operace, není matematicky formální.
+    - Příklady řámců:
+      - Q: "Co jsi dělal včera?" A: "Byl jsem v knihovně."
+        - Knihovna s sebou nese pojmový rámec, který obsahuje např. nějaké role (čtenář, zaměstnanec, uklízeč, ...)
+      - "Jdu do nemocnice."
+        - Samotné slovo "nemocnice" nedá vysvětlení významu celé věty (slovníková definice nepostačí), ale po
+          zasazení do rámce chápeme, že se zřejmě jedná o pacienta jdoucího na vyšetření.
+    - Rámce nejsou vždy morálně neutrální (viz soutěžené koncepty).
+
+Negace rámců
+  - "Nemyslete na slona!"
+  - Pokud rozumím slovu "slon", mám pro něj rámec. Slovo tento rámec aktivuje, ať chci, nebo nechci.
+  - Negace rámců aktivuje rámec místo toho, aby ho potlačila.
+  - Častá aktiva rámce potom způsobí jeho snazší vybavení.
+  - Význam pro politický diskurz:
+    - "Jste pro daňovou úlevu nebo proti daňové úlevě?"
+    - Je docela jedno, co odpovím, protože se nezbavím rámce "daně jsou zátěž". Říct "jsem proti daňové úlevě"
+      je tedy netaktické.
+    - Další příklad: Nixonův projev "I am not a crook, po kterém o něm lidé stejně přemýšleli jako o křivákovi.
+    - Jak z toho ven? Používat slova jiného rámce.
+
+"Politický mozek"
+  - Mozek je bytostně politický (a samozřejmě jakékoliv politické jednání je z mozku).
+  - Mysl se nemůže vymanit z omezení, které na ni klade struktura mozku, a to platí i pro politické myšlení.
+  - Viz Mr. Spock a racionalita z minula (emoce a racionalita).
+  - G. Rizzolatti - objev tzv. zrcadlových neuronů.
+    - Aktivní při vykonávání nějaké akce, ale také, když vidíme někoho jiného vykonávat tu stejnou akci.
+    - V. Gallese: zrcadlové neurony - fyziologický základ empatie (umožňují vcítít se do dalšího člověka) (?).
+  - Centra pro pozitivní vs. negatiní emoce (každé má vlastní neurotransmittery - dopamin, resp. noradrenalin)
+  -> Morálka je skutečně vtělesněná.
+  - Emoce -> morálka -> politika
+  - Politika se netýká jen správy státu, ale kdekoliv, kde jde o morálku.
+    - Př.: "V naší rodině platí politika, že tatínek má vždycky pravdu."
+
+Morální modely
+  - G. Lakoff: metafora "stát je rodina" (matička Rus, tatíček Masaryk, posílat syny do války, ...)
+    - V rodině se poprvé setkáváme s koncepty správy věcí a tedy i s politikou.
+    - Fungování rodiny má tedy zásadní dopad na vnímání správy státu.
+    - Stejně jako je v USA hlavní politický spor mezi Republikány a Demokraty, existují dvě základní koncepce
+      rodiny (rodina je samozřejmě soutěžený koncept):
+      - Model "přísného otce" (strict father morality)
+      - Model "pečujícího rodiče" (nurturing parent morality)
+      -> Základ konzervativního, resp. progresivního uvažování
+
+Model přísného otce
+  - Existuje přirozený řád světa.
+    - Kategorické (z podstaty věci) rozlišení dobra a zla
+    - Děti se rodí "nedobré", protože nemají osvojenou ostrou hranici mezi dobrým a zlým.
+  - Je zapotřebí morální autorita - "přísný otec".
+    - Zná hranici mezi dobrem a zlem.
+    - Je disciplinovaný a silný k tomu, aby rodinu ochránil.
+  - Disciplína je klíčová - zaručuje úspěšnost v životě.
+    - Vnitřní disciplína je totiž předpokladem morálního člověka.
+  - (Konzervativní) morální hierarchie (v podání amerických Republikánů)
+    - Bůh > člověka > příroda
+    - Disciplinovaní > nedisciplinovaní
+    - Bohatí > chudí (protože bohatí jsou úspěšní, neboť jsou disciplinovaní; kdežto chudí nejsou)
+    - Zaměstnavatelé > zaměstnanci (plyne z předchozího bodu)
+    - Dospělí > děti
+    - Západní kultura > jiné kultury (neboť má bohatství a úspěch)
+    - Naše země (USA) > jiné země (viz předchozí bod)
+    - Muži > ženy (muži představují "přísné otce")
+    - Bílí > ne-bílí
+    - Křesťané > ne-křesťané
+    - Heterosexuálové > ne-heterosexuálové
+    - ...
+
+Model pečujícího rodiče
+  - Empatie je klíčová (místo disciplíny).
+  - Pečující rodič není morálně nadřazený, ale je to zdroj péče a empatie.
+    - Jeho rolí je ochrana a podpora dětí.
+  - Genderová rovnocennost (otec není nadřazený matce), ochrana, podpora, výchova k empatii.
+
+Tyto modely nejsou jen politická záležitost - oba jdou uplatnit např. na křesťanství, potažmo Boha, a tím vyjdou
+dvě docela rozdílná náboženství (trestající, přísný Bůh vs. pečující, odpouštějící Bůh).
+
+Ne každého člověka lze klasifikovat jediným modelem - bikonceptualismus (oba modely).
+  - To je naopak běžné pro naprostou většinu lidí.
+  - Oba modely mají mentální struktury, v různých situacích můžeme aktivovat jeden nebo druhý model.
+  - Př.: Jeden člověk vychovává štěně modelem pečujícího rodiče a pak přednáší na vysoké škole modelem přísného
+    otce.
+  - Určité procesy aktivují primárně jeden model a potlačují jiný.
+    - Strach typicky aktivuje model přísného otce. (Př.: útok na WTC; strach z migrace; strach z covidu).
+    - Lidé si to vědomně nevybírají, k aktivaci dochází cíleně (i skrze politický marketing).
+  - Kognitivní vědy neříkají, který model je "lepší" nebo "přirozenější", to je vždy otázka morálních postojů.
+
+[Pamflet "konzervatismus není ideologií" o Václavu Klausovi od Ladislava Bátory]
+
+Doporučená literatura
+  - The Political Mind (George Lakoff)
+  - Whose Freedom (George Lakoff)
+  - Dont Think of an Elephant (kdopak to asi bude: George Lakoff)
+
+Doporučené zdroje
+  - Podcast FrameLab
+
