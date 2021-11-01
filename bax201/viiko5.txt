@@ -1,0 +1,52 @@
+=== Střídání stupňů ===
+
+Když jsou gemináty kk, pp a tt na konci slova (tj. nachází se za nimi maximálně jeden vokál),
+může docházet k jejich krácení v jistých pádech.
+
+vahva - silný
+heikko - slabý
+
+vahva   heiko   příklad
+kk      k       Afrikka   -> Afrikasta
+pp      p       Eurooppa  -> Euroopassa
+tt      t       konsertti -> konsertin
+
+K těmto změnám nedochází, když tyto gemináty nejsou na konci slova:
+keittiö -> keittiossä
+
+Silný stupeň je zachován v nominativu singuláru (Tšekki) a partitivu (Tšekkiä).
+Slabý stupeň je naopak využit v genitivu (Tšekin), nominativu plurálu (Tšekit), elativu (Tšekistä) a inessivu (Tšekissä).
+
+Cv. (do partitivu a elativu)
+tyttö - tyttöa - tytöstä
+ranska - ranskaa - ranskasta
+tšekki - tšekkiä - tšekistä
+Eurooppa - Eurooppaa - Euroopasta
+slovakki - slovakkia - slovakista
+loppu - loppua - lopustä
+kaappi - kaappia - kaapistä
+lippu - lippuä - lipustä
+espanja - espanjaa - espanjasta
+minuutti - minuuttia - minuutista
+ukraina - ukrainaa - ukrainasta
+jogurtti - jogurttia - jogurtista
+katto - kattoa - katosta
+paikka - paikkaa - paikasta
+viro - viroa - virosta
+viikko - viikkoa - viikosta
+kello - kelloa - kellosta
+bussi - bussia - bussista
+
+U sloves dochází ke střídání stupňů také. Silný stupeň se nachází v infinitivu (nukkua), a třetích osobách obou čísel
+(hän nukkuu, he nukkuvat).
+Naproti tomu ve všech ostatních osobách (minä nukun, sinä nukut, me nukumme, te nukutte) a v negaci v úplně všech osobách
+(en nuku, et nuku, ei nuku, emme nuku, ette nuku, eivät nuku) se uplatní stupeň slabý.
+
+Cv.
+lähettää - minä lähetän - hän lähettää
+soittaa - sinä soitat - me soitamme
+ottaa - te otatte - he ottavat
+kirjoittaa - minä kirjoitan - sinä kirjoitat
+oppia - hän oppii - he oppivat
+odottaa - te odotatte - hän odottaa
+nukkua - hän nukkuu - minä nukun
