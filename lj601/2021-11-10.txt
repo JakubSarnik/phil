@@ -1,0 +1,39 @@
+Cv.
+corpus sanum
+dolor magnus
+carmen clarum
+lex iusta
+urbs antiqua
+mater severa
+civitas nova
+regio pulchra
+
+Cv.
+poetam et scriptorem
+poetas et scriptores
+poetae et scriptores Romani
+poetae et scriptori Romano
+poetarum et scriptorum Romanorum
+
+Cv.
+mors certa (nom.) - mortem certam - morte certa - mortium certarum
+navis longa - navem longam (aku.) - nave longa - navium longarum
+ - - rege bono (abl.)
+ - - - victorum clarorum (gen.)
+
+=== 3. deklinace pro neutra ===
+
+Vzory corpus a mare. Mare se přitom liší hlavně v abl. sg. (corpore vs marí) a částečně v
+plurálu - nom., ak. vok. corpora vs maria a gen. corporum vs marium.
+
+Vzor mare přitom volíme pro slova zakončená v nom. sg. na -e, -ar, -al. Jindy vždy corpus.
+
+Cv. vzor - abl. sg. - nom. pl. - gen. pl.
+opus, operis, n.   - corpus - opere     - opera      - operum
+genus, generis, n. - corpus - genere    - genera     - generum
+nomen, nominis, n. - corpus - nomine    - nomina     - nominum
+os, oris, n.       - corpus - ore       - ora        - orum
+exemplar, aris, n. - mare   - exemplari - exemplaria - exemplarium
+ius, iuris, n.     - corpus - iure      - iura       - iurum
+
+ÚKOL: Zase text
