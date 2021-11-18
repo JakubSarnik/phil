@@ -1,0 +1,81 @@
+[Artikulátory, hlásky, ... - viz fonetika]
+  - "Na tvrdém patře se dělají měkké hlásky, na měkkém patře tvrdé hlásky"
+  - Čeština má neutralizovanou předovost/zadovost a -> trojúhelníkové schéma samohlásek
+    - Slovenština ale ne, ta rozlišuje přední a (ä) zadní a (a)
+  - Hlásky podle aktivního artikulátoru
+    - Glottis
+       - Okluzívy
+       - Spiranty/frikativy
+       - Afrikáty
+    - Dorsum
+      - Laterály (unilaterální a bilaterální - např. Velština)
+    - Apex
+      - Vibranty
+    - Labiály
+      - Bilabiální
+      - Labiodentální
+  - Hlásky podle místa artikulace
+    - Laryngály
+    - Faryngály
+    - Uvulární
+    - Velární
+    - Palatální
+    - Alveolární
+    - Dentální
+    - Labiální
+
+Fonologie
+  - Zajímavé (pro fonologii) je, že hlasky odlišují význam a ne to, jak se tvoří
+  - Ve fonologii se zavedl pojem "opozice", který byl později rozšířen i do dalších plánů
+  - Princip fonologické analýzy
+    - Segmentace řetězce na prvky (intuitivně) - kvazifony
+    - Substituční test - odhalíme, jestli jsme segmentaci udělali správně - fony (hlásky)
+      - pas vs. pes vs. prs
+      - ten vs. den vs. sen vs. zen vs. ven vs. fen vs. žen
+    - Ale u flektivních jazyků nestačí:
+      - [plot]0 ~ [plot][u]
+      - [plot]0 ~ [plod][u]
+    -> Distribuční analýza kontextů - fonémy
+      - Foném /d/ se realizuje fonémy [d] před vokálem a [t] před pauzou ([d], [t] jsou alofony /d/)
+      - Zobecnění fonů na fonémy. Množiny alofonů (realizací) různých fonémů se mohou překrývat
+      - Fonologický systém se od toho fonetického může dost lišit
+        - Alternace českého ch-h, stejně jako alternují k-g, ale h není velára, ačkoliv se tak chová
+          (je to "funkční" velára, alternuje ve znělosti s velárou ch)
+  - Distinktivní rysy
+    - Popis objektu pomocí vybraných hodnot
+    - Komplementární a kontrastivní (vzájemně se vylučují)
+    - Distinktivní rys jsou právě dvě hodnoty, které jsou zároveň komplementární a kontrastivní
+    - Příklad distinktivních rysů t, d, p, b, s, z, f, v:
+      - vokaličnost:              -, -, -, -, -, -, -, -
+      - konsonantičnost:          +, +, +, +, +, +, +, +
+      - kompaktnost:              -, -, -, -, -, -, -, -
+      - gravisovost:              -, -, +, +, -, -, +, +
+      - akutové:                  -, -, -, -, -, -, -, -
+      - nosové:                   -, -, -, -, -, -, -, -
+      - kontinuální:              -, -, -, -, +, +, +, +
+      - znělost:                  -, +, -, +, -, +, -, +
+      [viz skripta]
+
+Příklady vokalických systémů [které se zmiňovaly]
+  - Sanskrt (podobně moderní perština) - základní podoba, dále se zahušťuje
+
+    i   u   
+      a
+
+  - Němčina
+
+    i ü u
+    e ö o
+      a
+
+  - Turecký systém je trojrozměrný (přednost-zadnost, palatálnost-nepalatálnost, ...)
+  - Francouzština (4 stupně, postupně dolů ubývají hlásky)
+
+  - Krátké vs. dlouhé (čeština, latina), krátké vs. nazální (barmština),
+    krátké orální vs. dlouhé orální vs. krátké nazální vs. dlouhé nazální (hindština)
+
+Příklady konsonantických systémů [které se zmiňovaly]
+  - Havajština (málo konsonantů)
+  - Tamilština (nemají znělost, zato mají retroflexní konsonanty)
+  - Čeština
+  - Starořečtina
