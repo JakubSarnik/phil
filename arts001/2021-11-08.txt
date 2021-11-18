@@ -1,0 +1,136 @@
+=== Kognitivní přístupy k divadelnímu a performančnímu umění ===
+
+Otázka: Co se děje, když vnímáme umění / umělecké dílo?
+  - Tvorba a percepce - komplexní proces
+  - Jevištní metafora
+  - Pozn.: Bertold Brecht, Zadržitelný vzestup Artura Uie (1941)
+    - Inspirováno Hitlerovým vzestupem k moci.
+
+Divadlo a divadelní věda/studia
+  - Inscenace a představení
+  - (Veřejná) událost
+    - Včetně např. politických projevů
+  - V Česku návaznost na německou teatrologii
+  - Otakar Zich
+    - Divadelní strukturalismus a sémiotika
+    - Dílo: Estetika dramatického umění
+    - Herec je sám sobě materiálem k vytvoření uměleckého díla.
+    - Herecká postava (vytvořena hercem) odkazuje k dramatické osobě (např. Hamlet).
+    - Dramatická osoba je ovšem v mysli každého diváka.
+    - "Dramatické dílo je umělecké dílo předvádějící vespolné jednání osob hrou herců na scéně."
+    - "Protokognitivista"?
+
+Kognitivní teatrologie
+  - Aplikuje poznatky kognitivních věd (lingvistika, psychologie, poetika)
+  - Návaznost na fenomenologii
+    - V oblasti studia zkušenosti diváka
+  - Rozvíjena v posleních 30 letech
+  - Bruce McConnachie
+    - Zásadní práce publikuje kolem roku 2006.
+  - Amy Cook
+    - Shakespearoložka
+  - V Česku menšinová záležitost
+  - Současnost
+    - Hledání nástrojů analýzi divadelní či performativní události
+    - Teorie konceptuální metafory
+    - Teorie konceptuální integrace
+    - ...
+
+Teorie konceptuální metafory
+  - Využití ke čtení dramatického textu, k analýze dramatického představení nebo performativní události
+  - Připomenutí: zdrojová a cílová doména
+  - Dále rozvíjí zejmána Zoltán Kövecses.
+  - Konceptuální metafora pomáhá porozumět abstraktním myšlenkám na základě těch, které jsou nám známější
+    (neboť jsou obvykle konkrétnější).
+  - Pozn.: Příklady strukturních metafor, orientačních metafor, ontologických metafor, ...
+
+[Text: Jan Skácel (sb. Naděje s bukovými křídly - Novému ránu rožnem svíci)]
+
+Příklady typických dramatických metafor:
+  - Vidět je vědět, život je hádanka / odhalování skrytého (Král Oidipús)
+  - Žárlovost je choroba/jed (Othello)
+  - Ctižádost je ??? (Macbeth), Macbeth a koncept cesty
+
+Oidipús
+  - Vědění je vidění
+    - "I see" = "I know"
+    - Oidipús: "Nu já zas plnou pravdu odkryji!"
+  - Reverze
+    - Vidoucí neví...
+    - Nevidoucí ví...
+    - Teiresiás X Oidipús
+
+Multimodální umění
+  - Multimodalita
+    - Pojem se objevuje v 20. letech 20. století v psychologii vnímání.
+    - Spoluúčast různých smyslových počitků (např. zrakových a sluchových) na celkové percepci, včetně
+      efektu vzájemného ovlivnění.
+    - Od 90. let 20. století uplatnění v lingvistice (Theo van Leeuwen)
+  - Charles Forceville
+    - Metafora - tropus, který vládne nejen jazyku, ale i myšlení
+    - Manifestace metafory (metaforické výrazy) bychom měli zkoumat i v jiném "sémiotickém modu", než je
+      jazyk.
+    - Obrazová/vizuální metafora
+    - Monomodální vs. multimodální metafora
+    - Nonverbální metafora (pro divadlo zásadní)
+    - Metafora je něco, co lze vytvořit v čase, a není jedno, kdy se jaký modus zapojí.
+      - Např. význam obrazu se může proměnit, když se pustí jistý typ hudby.
+    - Mody - obrazový znak, psané znaky, zvukové znaky, doteky, čich, ...
+    - Př.: Obrazy "Box je šach" a "Šach je box"
+    - Př.: Polotovar značky Iglo
+      - Klas kukuřice a lusk fazole kráčejí (antropomorfizace), pak zazní melodie Svatebního pochodu, což
+        rozšiřuje metaforu o metaforizaci kukuřici a fazole jako nevěstu a ženicha.
+        -> Metafora "kukuřičný klas a lusk fazolí jsou nevěsta a ženich"
+      - Neexistuje jednoznačný slovní odkaz na zdrojovou doménu (svatba).
+    - Divadlo
+      - Jazyk je nezbytný, ale materiální (fyzická/hmotná) forma je na něm nezávislá.
+      - Jazyk je nezáviskou modalitou sám o sobě, podporuje ostatní modality.
+        - Zdůrazňování rámců
+        - Ožrejmění povahy pozorovaných jevů
+        - Zdůrazňování (foregrounding) metaforických významů materiálních (zobrazovaných, ztělesňovaných)
+          událostí
+      - Materiální aspekty - lidská těla, předměty, jeviště, výprava/scénografie, ...
+      - Pozn.: Variabilní scéna, kde se ze stejně vypadající scénografie může stát balkón, chodba, ...
+        (Význam dodává až herecká akce.)
+
+Rozšíření teorie konceptuální metafory
+  - Zoltán Kövecses (Extended Conceptual Metaphor Theory)
+  - Rozšíření zejména o kontext (méně konkrétní dojmy, zážitky, prožitky, ...)
+  - Pokus o "smíření" s teorií konceptuální integrace
+  - Metaphor and Emotion
+  - Metaphor: A Practical Introduction
+  - Metaphor in Culture, Universality and Variation
+  - Where Metaphors Come from: Reconsidering Context in Metaphor
+  - Metafora jako velmi složitá mentální "událost"
+  - Uvažuje i o metonymii (jako součásti metafory)
+  - Zamýšlí se nad neznakovými zkušenostmi a o tom, co nám sdělují.
+  - Kontext - konceptuálně-kognitivní kontext
+  - Např.: Jaké konceptuální metafory může evokovat zážitek/zkušenost?
+  - "Mixed metaphor" - při konceptualizaci jedné cílové domény je aplikováno hned několik zdrojových domén.
+    - Brechtův Alberto Ujo: Gangsterské prostředí, Karfioltrust (firma - květinářství), ... pro konceptualizaci
+      Hiltera, jeho vzestupu, ...
+  - "Multi-layer metaphor" - jedna zdrojová doména je mapována na několik cílových domén.
+  - Schematičnost jako inkluze
+    - Mentální prostory <= rámce <= domény <= obrazová schémata
+    - Obrazová schémata
+      - Pre-konceptuální struktury mající význam
+      - Např. "nádoba", "síla"
+      - Vysoce schematické gestalty, obecné vzory
+      - Vnitřně strukturované, tvoří domény jako "cesta", "tělo", "budova"
+    - Domény
+      - Koherentní oblast konceptializace, vzhledem k níž lze charakterizovat sémantické jednotky
+      - Narozdíl do OS domény nejsou analogické
+      - Např. "tělo" (viz výše)
+    - Rámce
+      - Méně schematické než domény
+      - Rámce rozvíjejí konkrétní aspekty matrice domény.
+      - Např. doména "tělo" může být chápána jako rozvinuta různými rámci - "percepce", "příjem potravy", "cvičení".
+      - Podílejí se na jazykových výrazech typu: "v tom vidím problém" (percepce), "musím tu myšlenku strávit"
+        (příjem potravy).
+    - Mentální prostory
+      - Situace konkrétní skutečné promluvy, specifické komunikační situace
+      - Role jsou obsazeny konkrétními hodnotami.
+      - Velmi dílčí "uskupení" konstruovaná, jak myslíme a mluvíme, za účelem porozumění a jednání v konkrétních
+        situacích
+
+[Př.: obraz Picasso a Braque (Mark Tansey)]
