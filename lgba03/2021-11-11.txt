@@ -1,0 +1,33 @@
+Suprasegmentální jevy *vnímáme pomocí*
+  - Výšky tónu (rychlost kmitání hlasivek)
+  - ...
+
+Přízvuk
+  - Zvuková prominence i podoba přízvukové jednotky závisí na daném jazyce
+  - Redukce nepřízvučných slabik v Ang. - redukce vokálů na neutrální vokál
+  - Zvuková prominence u přízvučných slabik může být i negativní (nižší intenzita/délka/výška hlasu)
+    - V češtině - často pokles hlasu na první slabice
+  - Pozn.: nepravé předložky v češtině (skrz) - nepřetahují přízvuk z následujícího slova
+  - Pozn.: "Funkčně" jsou v češtině příklonkami i jednoslabičná slova (bez ohledu na gramatický status)
+    - Obecně je přízvuk u jednoslabičných slov problematický (rytmické důvody, zdůrazňování každé slabiky
+      ve slově zní "divně", monotónně)
+  - V češtině je při běžné mluvě přízvuk poměrně slabý, ale přízvukový takt jako jednotka existuje
+    a projevuje se vnitřní kohezí (rozdíl znění "o kolovrátek" vs. "okolo vrátek")
+  - V češtině se sekundární přízvuk na lichých slabikách prakticky neprojevuje (ale ve vetších dle usu
+    považujeme tyto za přízvučné)
+
+Tóny
+  - Efektivní prostředek, jak pomocí malého počtu slabik vyjádřít mnoho významů (mandarínská čínština
+    má tedy většinu slov jednoslabičných)
+
+Intonace
+  - Melodie - konkrétní průběh v konkrétní promluvě
+  - Melodické schéma potom různé rozdílné melodie abstrahuje (např. klesání hlasem)
+  - Promluvový úsek je hlavně rytmizační jednotkou, může mít ale vliv i na význam
+    (Informovali jsme o výsledcích ...)
+
+Semivokály
+  - Vokoid - má aperturu (-> tónovost)
+  - Kontoid - má překážku (-> šumovost)
+  - Odvozeny od vysokých vokálů (i, y, ..., u)
+    - Ty jsou nejblíže konsonantům (protože jazyk se začíná blížít k patru)

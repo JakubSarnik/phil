@@ -1,0 +1,55 @@
+Ingresivní pulmonické hlásky moc neexistují, neboť nádechový proud není tak silný, jako ten
+výdechový. Není znám jazyk, který by rozlišoval význam podle toho, jestli je výslovnost nějaké
+hlásky realizována nádechovým nebo výdechovým proudem.
+
+Ejektivy
+  - S hlasivkami můžeme hýbat nahoru (ale my to úplně neumíme)
+  - Uzavřený prostor a pohyb -> funguje jako pumpa (nadtlak)
+  - Častější závěr než úžina (tedy typy okluzivních hlásek)
+  - Většinou neznělé
+
+Implozivy
+  - Implozivy - stejný princip jako ejektivy, ale hlasivky se posouvají dolů a vzniká podtlak
+  - Hlasivky bývají většinou více rozevřeny
+    - Většinou znělé
+  - "Zní to podobně jako b, d, ..., ale taky je tam zvuk, jako by se člověk dávil"
+
+[IPA chart na stránkách Mezinárodní fonetické asociace má k hláskám nahrávky výslovnosti]
+
+Mlaskavky
+  - Hřbet jazyka se dotýká měkkého patra
+  - Přední část jazyka se ale může hýbat dál a dotýkat se např. zubů
+  - Střední část jazyka se prohne dolů, vznikne podtlak
+  - Uvolnění dotyku -> vyrovnání podtlaku nasáním vzduchu
+  - My to intuitivně umíme, ale v řeči nepoužíváme
+  - Teoreticky bychom mohli prvně uzavřít vzduch jazykem a pak jej "vyprsknout ven", (egresivní
+    mlaskavky?), ale toto se v jazycích světa nevyužívá
+
+Dyšná fonace - zní, jako bychom šeptali, ale zároveň mluvili nahlas
+
+Třepená fonace - napětí svalstva dlouho nevydržíme, za chvíli se svaly začnou třepat (stejně jako
+                 bychom napnuli třeba biceps)
+
+Konsonanty s dvojím místem artikulace
+  - Striktury vždy stejného typu (např. dvě okluze, ale ne okluze a aproximace)
+
+Konsonanty se sekundární artikulací
+  - Překážky nemusí být stejného typu, ale liší se stupněm (sekundární je slabší, většinou
+    aproximace)
+  - Koartikulace - hlásky stojící vedle sebe se ovlivňují
+    - Kytara x kulatý x kamarád - posun jazyka u prvního K podle následující samohlásky už při
+      artikulaci toho K
+  - Typy: palatalizace atd.
+  - Pozn.: V některých českých nářečích se velarizované L vyskytuje a někde se stalo dokonce i to,
+           že takové L plně přešlo v U (výslovnost "byl" jako [byu])
+
+[V testu: české slovo v IPA, přepsat do běžného pravopisu, hlásky klasifikovat (místo a způsob
+artikulace, znělost, orálnost vs. nazálnost, ...
+Např. p - bilabiální okluziva, neznělá, okluziva, ...
+Viz tabulka klasifikace českých hlásek v ISu.]
+
+Změny zvukové podoby význam. jednotek
+  - Často kvůli zjednodušení výslovnosti (pak byl - k je mezi dvěma znělými hláskami)
+  - Kdo -> [gdo] není asimilace, to se totiž vždy vysloví s g a je to jen otázka pravopisu
+  - Pozn.: změna e-o se ve slově "komediant" právě neděje
+ 
