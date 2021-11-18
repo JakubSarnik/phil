@@ -1,0 +1,56 @@
+=== Substantiva 3. deklinace ===
+
+Obsahuje maskulina, feminina i neutra (a často se od češtiny liší).
+Společnou mají pouze genitivní koncovku -is, podle nominativu se nedají poznat.
+
+Maskulina a feminina se skloňují podle dvou vzorů: miles, civis.
+Neutra podle corpus a mare.
+
+Vzory miles a civis se liší jen v genitivu plurálu, kde civis má koncovku -ium,
+kdežto miles -um.
+
+Podle vzoru civis se skloňují substantiva
+  - jejichž genitivní kmen končí na dvě souhlásky (pars, partis, f. - genitivní kmen part)
+  NEBO
+  - stejnoslabičná (m. nebo f.) - má stejný počet slabik v nom. a gen. sg. (civis, civis, m.)
+
+Všechna ostatní m. a f. se skloňují podle vzoru miles.
+
+Podle vzoru mare skloňujeme neutra, jenž v nom. sg. končí na -e, -ar, -al.
+Všechna ostatní neutra skloňujeme podle corpus.
+
+Deklinace probíhá primárně podle genitivního kmene.
+
+Cv. slovo - vzor - akuzativ sg. - nominativ pl. - genitiv pl.
+mens, mentis, f.   - civis - mentem  - mentes  - mentium
+canis, canis, m.   - civis - canem   - canes   - canum (výjimka, ne canium)
+civis, civis, m.   - civis - civem   - cives   - civium
+dux, ducis, m.     - miles - ducem   - duces   - ducum
+mors, mortis, f.   - civis - mortem  - mortes  - mortium
+homo, hominis, m.  - miles - hominem - homines - hominum
+hostis, hostis, m. - civis - hostem  - hostes  - hostium
+lex, legis, f.     - miles - legem   - leges   - legum
+mons, montis, m.   - civis - montem  - montes  - montium
+
+Cv. kombinace substantiva 3. deklinace a adjektiva 1, 2. deklinace
+mens, sanus       - mens sana (- mentem sanam)
+canis, magnus     - canis magnus
+civis, bonus      - civis bonus
+dux, iustus       - dux iustus
+mors, periculosus - mors periculosa
+homo, liber       - homo liber
+lex, malus        - lex mala
+urbs, clarus      - urbs clara
+
+Cv.
+Rex in terra magna regnat.
+Milites contra hostes pugnant.
+Nuntius epistulam portat.
+Magistra pueros docet.
+Canis amicus hominis est.
+Discipulus in schola magistro respondet.
+Pater et mater filios educant.
+Agricolae in agris dominorum laborant.
+Dux militibus imperat.
+
+DOMA: Těžší text (psaný současnou latinou)
