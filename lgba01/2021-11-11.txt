@@ -1,0 +1,95 @@
+Lexikálních znaků je zpravidla mnohem, mnohem více, než znaků gramatických.
+Významem se zabývá sémantika. Aplikací sémantiky na materiál daného jazyka je lexikosémantika.
+Ještě další je lexikologie - nauka o slovu - ale spíše z oblasti morfologického.
+Lexikografie se potom zabývá psaním slovníků.
+
+Paradigmatické sémantické pole: např. barvy
+Syntagmatické sémantické pole: např. kopnout (věc kontaktu, asociuje se s nohou)
+
+Různé jazyky vidí stejné sémantické pole jinak - uživatelé různých jazyků vidí na duze různý počet
+barev (např. ruština odlišuje dva druhy modré).
+  - Primární barvy:
+    - Černá
+    - Bílá
+    - Červená
+    - Ostatní
+
+Zjemňování sémantického pole je záležitost potřeby.
+
+gehen  - jít - isť
+fahren - jet - isť
+reiten - jet - isť
+
+Významové stránce lexému odpovídá semém, jemuž zase odpovídá množiná sémů.
+
+Muž        X žena       X dítě
+člověk     - člověk     - člověk
+samec+     - samec-     - samec-
+samice-    - samice+    - samice-
+dospělost+ - dospělost+ - dospělost+
+
+^ K lexémům (muž, žena, dítě) přiřazujeme sémy (člověk, samec+, ...).
+
+V jazycích, které mají jmenné třídy, je tento systém přímo gramatikalizován (třída rostlin, třída
+lidí, ...).
+
+Pozn.: V češtině - vzor kuře je původně třídou, vyskytoval se původně jen v plurálu jako kolektiva, ale
+došlo k singularizaci (odvození singuláru z plurálové formy).
+
+Lexém - laicky "slovo", kterému většinou odpovídá, ale v některých případech odpovídá více slovů
+(frazémy, idiomy). [Idiom je frazém, jehož význam nelze odvodit z významu jeho částí.]
+ALE ne každé spojení slov, které by mohlo být frazémem, je vždycky frazém (a tedy vždy jednou lexikální
+jednotkou ("Bílý dům" může být metaforický frazém, nebo označení libovolného bílého domu)).
+
+Při analýze významu vždy záleží na kontextu (okolí, věty, ale někdy i mimovětném).
+V širším kontextu se sémantickým významem pracuje pragmatika (např. analýza frází).
+
+Synonymie
+  - Keden ze základních sémantických vztahů
+  - Slova, která znamenají to stejné
+  - Čistých synonym moc není (jazykověda - lingvistika); většinou jsou synonyma částečná (matka - maminka:
+    rozdílem je citové zabarvení).
+
+Pozn.: ministerstvo války v "pořádném 19. století" vs dnešní ministerstvo obrany
+
+Pozn.: důchodci, medvědi, kouzla a tabu
+
+Antonymie
+  - komplementární - jsou dva (živý, mrtvý)
+  - polární - dva extrémy a mezi nimi "zahušťujeme" (vysoký, nízký; vstup, výstup)
+
+Hyperonymie (nadřazenost) a hyponymie (podřazenost)
+  - Hyponyma kapr, štika, lín patří pod hyperonymum ryba
+  - Co je hyperonymem a hyponymem záleží na tom, k čemu to vztahuji
+
+Polysémie (mnohoznačnost) vs homonymie (stejnozvučnost)
+  - Polysemie - jeden lexém má více významů, které jsou zároveň alolexémy
+    Např.: žena jako "samice člověka" vs. "manželka", kočka jako druh, samice nebo i jakákoliv kočkovitá šelma,
+           den jako 24 hodin nebo jen světlá část "dne"
+  - Homonymie - něco, co spolu vůbec nesouvisí, zní stejně
+    Např.: kolej na železnici vs ubytování studentů
+
+Další dělení slov
+  - Např. na propria (vlastní jména) a apelativa (obecná označení)
+    - Přecházejí typicky od propria k apelativu (lux jako vysavač ze značky Lux, císař jako panovník ze jména
+      Caesar), ale mohou i naopak.
+
+= Skočíme z obsahu na formu =
+
+Forma je totiž přístupnější zkoumání, dá se snáze dělit na "minimální jednotky" (i když i tam je dělení
+alespoň z části arbitrární - kde končí jedna hláska a začíná druhá?)
+
+Fonetika a fonologie (odděleny ve 20. století)
+  - Fonetika - deskripce hlásek z hlediska fyzikálního, anatomického, ... (parole)
+    - Dnes nezávislá věda stojící mimo lingvistiku (nezajímá jí, co se říká, jen jak)
+    - Artikulační fonetika
+      - Lidé mají specificky vyvinutý hrtan, aby mohli mluvit (ale obecně savci mohou zároveň dýchat a vydávat
+        zvuky).
+      - Nosní dutina se také využije, ale jen na dobarvení - jinak nejdůležitější ústní dutina.
+      - Na hlasivkách je zajímavé, že mají pohyblivou štěrbinu.
+      - Nejlepší analogický model jsou dudy (pytel a píšťala) - tedy alespoň pokud jde o egresivní hlásky
+        (jinak harmonika).
+  - Fonologie - jak hlásky fungují v systému jazyka (langue)
+    - Součást lingvistiky
+
+[Pozn.: film Bohové musí být šílení - herci jsou rodilí mluvčí afrických jazyků s mlaskavkami]
