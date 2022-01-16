@@ -1,0 +1,30 @@
+=== Slovesa 3. konjugace ===
+
+1. osoba singuláru indikativu prezentu aktiva je ukončena na -ó
+aktivní infinitiv je ukončen na -ere, kde e první e je krátké (na rozdíl od 2. konjugace -ére)
+
+Souhlásková konjugace - infinitivní kmen končí na souhlásku
+  -> neškrtám pro konjugaci z infinitivu -re, ale celé -ere (legere -> leg)
+     přidává se kmenotvorná přípona (většinou -i- v prezentu, -e- jinde)
+
+Indikativ futura I. se tvoří dost jinak (viz skripta), není tam -bo-, -bi-, -bu-.
+
+Pozor, patří sem dále slovesa typu capió, capere, kde se nepřipojuje kmenotvorné -i-.
+
+=== Slovesa 4. konjugace ===
+
+Podobná té třetí.
+Zakončení -ió, -íre
+
+Cv.
+puniebant - 3. os., pl., ind., imp., akt., 4. kon., trestali
+colitur - 3. os., sg., ind., pre., pas., 3. kon., je uctíván
+veniebamus - 1. os., pl., ind., imp., akt., 4. kon, přicházeli jsme (pozn.: imperfektum překládáme nedokonavě)
+dicés - 2. os., sg., ind., fut., akt., 3. kon., budeš říkat
+audiam - 1. os., sg., ind., fut., akt., 4. kon., budu slyšet
+
+Cv.
+Librí boní á fíliís nostrís leguntur (legébantur, legentur)
+Multí hominés deum aut deós colunt (colébant, colent)
+Á magistrís iúre púníris (púniébáris, púniéris)
+Linguam Latinam discimus (discébámus, discémus)
