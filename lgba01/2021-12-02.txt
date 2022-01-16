@@ -1,0 +1,149 @@
+=== Syntax ===
+
+Zkoumá větné vzorce (typ syntagmatických vzorců).
+
+Více přístupů
+  - Závislostní syntax (tradiční)
+    - Analýza celku na jednotlivé konstitutivní elementy
+  - Generativní syntax
+    - Vychází z konstitutivních elementů, předpokládá, že se z nich za pomocí nějakých pravidel
+      generují věty
+
+Struktura jazyka
+  - Povrchová - "to, co známe ze školních hodin syntaxe" (analýza konkrétního jazyka)
+  - Hloubková - "záležitostí hloubkového uspořádání lidského mozku"
+
+[Cyberpunkový román Neila Stephensona Sníh - věnuje se otázkám struktury jazyka]
+
+Otázka, které se syntax věnuje: "Co je to věta?"
+  - Minimální komplexní vyjádření, které obsahuje přísudek
+    - Bez přísudku by to byla jen výpověď
+    -> Věta je výpověď vyjadřující děj (neb děj je vyjádřen predikátem/přísudkem)
+    -> Centrální pozice predikátu
+
+Konstituenty (isomorfní se strukturou slabiky)
+  - Přísudek (predikát)
+  - Podmět (subjekt)
+  - Předmět (objekt)
+  - ... viz dále
+
+Některé predikáty subjekt a objekt nepotřebují, ba ani nemůžou mít: prší, sněží (třetí osoba je neosoba).
+Subjekt a objekt: aktanty.
+
+Aktivní konstrukce: subjekt je původce děje, objektu se děj děje
+Pasivní konstrukce: subjektu se děj děje, objekt je původce děje
+  -> objektu se říká agens
+Ergativní konstrukce: děj se děje sám na sobě a má dva objekty, ale žádný subjekt
+  ("Koněm je žřáno ovsa.", "Od ženy psa je viděno.", nic není v nominativu, většinou na to slouží ergativ)
+
+Příslovečné určení (adverbiále)
+  - Určuje okolnost
+  - Typicky vyjádřeno adverbiem
+  - Rozvijí předikát
+  - "Třese se strachem.", "Krásně tančí."
+
+Přívlastek (atribut)
+  - Většinou rozvíjí jmennou část. Může rozvíjet i predikát (pak tomu ale říkáme doplněk)
+
+Vztahy mezi zmíněnými konstituenty byly hlavně hypotaktické (podřadící), ale máme i parataktické
+  (typicky vícenásobný podmět).
+
+Parataktické i hypotaktické vztahy můžeme ze slov "rozšířit" i na celé věty
+  - U hypotaktického vztahu funguje jedna věta jako větný člen jiné věty
+
+Formální prostředky vyjádření syntaktických vztahů
+  - Slovosled
+    - Typicky u jazyků s ne tak bohatou flexí
+  - Pomocná slova
+    - Např. spona, člen, spojky, předložky
+  - Afixy
+    - Přimykání
+    - Rekce (řízenost) - závislý člen přibírá afix podle významu řídícího členu
+    - Kongruence (shoda) - závislý člen přibírá ...
+    - Anafora - řídící člen přibírá afix poukazující na přítomnost závislého členo
+    - Anaforická kongruence
+
+Predikáty jsou typicky vyjádřeny verbem finitem. Někdy ale i jmenný tvar (slovesné adjektivum - participium),
+pak většinou přítomnost spony ("je mladý").
+  ALE: Např. Ruština sponu prakticky nemá
+       I v češtině známe věty typu "Mladost radost."
+
+Polovětné (participiální) konstrukce
+  - Žena přišedši do světnice... (stará čeština) -> Žena, která přišla do světnice, ... (současná čeština)
+  ^ Obecně starší indoevropské jazyky preferovaly participální konstrukce, moderní spíš plně větné
+
+Infinitiv - ustrnulé slovené substantivum (české -ti je původem dativní koncovka)
+  - Ve slovanských jazycích může fungovat i jako subjekt ("Udělat není o tom mluvit.")
+
+Absolutivum - slovesné adverbium (funguje podobně jako adverbiále)
+
+Vyjádření modality (včetně záporu, větné modality (tázací, ...))
+  - Gramaticky (indikativ, optativ, konjunktiv, imperativ, ...)
+  - Syntaktickými prostředky
+
+Aktuální větné členění
+  - V jazycích, které mají volný slovosled
+  - Umožňuje klást důraz na jistý větný člen
+
+=== Jazyková typologie ===
+
+Klasifikace jazyků podle jejich vnitřní stavby.
+Žádný jazyk však není čistého jednoho typu.
+
+[Členité prostředí vede na jazykovou rozmanitost, široké pláně naopak na homogenitu]
+
+Základní typy
+  - Izolující
+    - Prakticky neexistují gramatické kategorie, vztahy mezi slovy jsou vyjádřeny pevným slovosledem
+      a využívá plno gramatických slov (předložky, částice)
+    - Angličtina, francouzština, hindšitna
+    - Častá je existence členu
+    - Typickým rysem je stupňování adjektiv pomocí dalších slov
+    - Rozdíl mezi slovními druhy je malý
+    - Tendence k jednoslabičným slovům
+    - Čas se většinou určije pomocí gramatických slov (pokud vůbec)
+    - Osoba je vyjadřována zájmeny
+  - Aglutinující
+    - Bohatá flexe, ale každá gramatická kategorie se vyjadřuje zvláštním prostředkem
+    - Mnoho pádů, typicky stejné v singuláru a plurálu
+    - Často vokalická harmonie
+    - Ugrofinské, turkotatarské, z indoevropských např. arménština
+  - Flektivní
+    - Bohatá flexe, ale morfémy jsou vyjadřovány spojitě (fúze rodu, pádu, čísla, například)
+    - Staré indoevropské jazyky, slovanské a baltské jazyky, bantuské jazyky
+    - [Staří indoevropané měli zájem o dvě věci: válečné vozy tažené koněm a flexi]
+
+Odvozené typy
+  - Introflektivní
+    - Pro derivaci a flexi se používá alternace fonémů
+    - To se pooužívá v malé míře i v češtině/němčině (bůh-boha, bruder-brüder)
+    - Typické ale pro semitské jazyky
+  - Polysyntetické
+    - Neexistuje prakticky flexe, ale hodně se používají kompozita
+    - Východoasijské jazyky (čínština, vietnamština, ...)
+
+=== Dialektologie ===
+
+Jazykové kontinuum příbuzných nářečí
+  - Předěl - isoglosa
+  - Isoglosy vznikají štěpením kontinua
+
+[Viz nahrávka/word pro příklad štěpení staré češtiny]
+
+Jazyky ale mohou "vznikat" i kontaktem méně příbuzných jazyků (angličtina - anglosaský substrát, francouzský superstrát)
+Důvod, proč se od sebe odlišují například románské jazyky, je přítomnost různých substrátů
+
+Fáze míšení jazyků
+  1. Pidžinizace - většinou ad hoc kódy, kde se docela zlikviduje gramatika, ale převezme se část slovní zásoby
+  2. Kreolizace - z pidžinu se stává klasický jazyk začínající plnit veškeré úlohy jazyka (často zakládají "rodilí
+     mluvčí pidžinu")
+
+Adstrát - slovní zásoba přejatá z jiného jazyka, která nespadá do substrátu ani superstrátu (často "kulturní" výpůjčky)
+  - Pro západní Evropu typicky latina, pro východní zase řečtina a staroslověnština
+  - Pro češtinu typicky bývala němčina, dnes nahrazeno angličtinou
+
+TOTO BYLA POSLEDNÍ PŘEDNÁŠKA, ZBYTEK VE FORMĚ VIDEÍ
+Zkouška bude zřejmě zaškrtávací A, B, C, D (buď prezenčně, nebo online)
+Na projití stačí poloviční počet bodů (pak po 2 bodech bude odstupňováno)
+Body se získávají i strhávají, ale písemka by neměla být zvlášť náročná
+Vzorové otázky jsou v ELFu ("vzorek skutečných otázek")

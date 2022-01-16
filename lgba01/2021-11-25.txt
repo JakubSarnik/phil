@@ -1,0 +1,72 @@
+Slabika
+  - Nejmenší artikulační jednotka (ale pozor, nejmenší jednotka formy je hláska, resp. foném)
+  - Slabika má vrchol (V), na vrcholu jsou závislé svahy slabiky (C)
+    - Různé případy: V, CV, CVC, ...
+    - C před V - iniciála
+    - C po V - koda
+    - Otevřené slabiky - nemají kodu
+    - Uzavřené slabiky - mají kodu
+    - Všechny jazyky mají otevřené slabiky, ale ne každý jazyk má uzavřené slabiky (staroslověnština nemá)
+    - V může být krátký vokál, dlouhý vokál i diftong
+    - Iniciála i koda se můžou skládat z jednoho i více konsonantů
+    - Pořadí prvků nebývá náhodné (ne vše je snadné na vyslovení, pozn.: zákon o stoupající sonoritě, ...)
+    - Některé jazyky rozlišují dlouhé a krátké slabiky (podle délky vrcholu, ale třeba i počtu konsonant
+      v kodě)
+      - Míra délky slabiky je mora
+      - 1 mora - krátký vokál
+      - 2 mory - dlouhý vokál, diftong nebo krátký vokál a konsonant v kodě
+      - 3 mory - dlouhý vokál/diftong a konsonant
+      - Př.: pozice přízvuku v klasické latině je na 3. moře od konce
+      - Př.: čeština: skákání, slovenština: skákanie (morový zákon o krácení)
+
+Suprasegmentální jednotky
+  - Segmentální - děje se segmentům
+  - Suprasegmentální - děje se na celém řetěžci segmentů (v tomto případě segment = foném)
+  - Přízvuk
+    - Na slabice je nebo není (kontrastuje tedy s 0, stejně jako segmentální jev - dierém (#))
+    - Významonosný (pozice přízvuku může rozlišit dvš slova) nebo pevně vázán na segment (typicky na slabiku,
+      čeština, francouzština, ...) - pak nenese význam a není fonologický
+  - Intonace a tóny
+    - V některých evropských jazycích - tón je relevantní v přízvučných slabikách (litevština)
+    - Intonace na slabice - tón - areálově omezeno (jihovýchodní Asie)
+  - Možnosti
+    - Pohyblivý přízvuk - ne      - ne         - ano     - ano
+    - Intonace          - ne      - ano        - ne      - ano
+    -                   - čeština - srb.chorv. - ruština - litevština
+
+=== Písmo ===
+
+Písmo je způsob vyjádření jazykové formy (stejně jako lidský hlas).
+Narozdíl od něj je však trvalé.
+Mnoho laiků vnímá jazyk prakticky jen jako ten psaný.
+
+Studiem písma se zabývá grafémika (pozn.: grafologie je pavědecká disciplína).
+
+Pozn.: Existuje něco jako psací soustava a mluvní soustava. Je otázka, co je odvozené od druhého
+  (Ale zřejmě psací od mluvní, neboť mluvit jsme uměli primárně, psát až sekundárně).
+
+Typy psací soustavy (viz Martinet, I. a II. členění)
+  - Plerémy (odpovídají morfému)
+    - Nejmenší jednotkou je logogram (reprezentuje morf(ém)) nebo ideogram (reprezentuje ideu)
+    - Typicky čínské znaky
+    - Zvláštním případem ideogramu je i piktogram
+    - Vývoj: piktogram -> ideogram -> logogram
+  - Cenémy (odpovídají fonému)
+    - Označují slabiky (historicky starší) - sylabogramy - nebo hlásky - fonogramy
+    - U slabik většinou potřeba velkého množství znaků (ale někdy snadné odvozování - dévanagarí)
+
+Některá písma míchala plerémy a cenémy a nešlo to podle tvaru odlišit, záleželo na kontextu
+I v našem jazyce však používáme plerematické jednotky (číslice, logické symboly, ...)
+
+Základní prvek písma nerozdělitelný na menší jednotky - graf (ekvivalent fonu)
+Např.: <f>, <F> (prosté grafy - samostatné)
+Diakritikon - graf, který modifikuje jiný graf
+Interpunkt - graf, který delimituje text
+Multigraf - rozložitelný graf (<ť>, <ch>, německé <sch>)
+Ligatura - multigraf, který splynul do jednoho celku (<ů>)
+Invariant grafu je grafém (<<f>> má alografy <f>, <F>)
+Abeceda - množina písmen (grafémů) sloužící k zápisu jazyka v závazném uspořádání
+  (ale různé významy - minimální, rozšířená, ...)
+Pravopis (ortografie) - ustálený způsob, jakým používáme psací soustavu (a její abecedu)
+
+Pozn.: "Jak správně po česky psáti, neb tisknouti (žáček, autor je Steier)"
