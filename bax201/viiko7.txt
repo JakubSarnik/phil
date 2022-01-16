@@ -1,0 +1,50 @@
+=== Čísla ===
+
+[Čísla, viz papír]
+
+Olen ___ vuotta (vanha). (Je mi ___ let.)
+
+Mitä jäätelö maksaa? (Kolik stojí zmrzlina?)
+Se maksaa ___. (Stojí ___.)
+
+POZOR: Při kombinaci čísla a substantiva leží substantivum vždy za číslem a
+  - pokud je číslo 1, pak v nominativu singuláru
+  - jinak VŽDY V PARTITIVU SINGULÁRU
+
+Cv.
+Mikko ei asu Suomessa. Oikein
+Pedro on nyt Brasiliassa. Väärin. Pedro on nyt Suomessa.
+Tiistaina Pedro ei ole kursilla. Oikein.
+Pedro soittaa kitaraa kotona. Oikein.
+Pedron kurssi on päivällä. Väärin. Pedron kurssi on illalla.
+Hannan asunto on Espoossa. Oikein.
+On kesä. Oikein.
+Kesällä yöllä on pimeää. Väärin. Kesällä yöllä onvaloa.
+
+Cv.
+Asun nyt Brnossa.
+En ole suomalainen, vaan tšekkiläinen.
+Toivottavasti sinulle kuuluu hyvää.
+Luulen, että minulle kuuluu hyvää.
+Minun ystävä asuu myös Brnossa.
+Maanantaisin opin yleensä suomen.
+Joskus illalla laulan.
+Asun Tšekistä ja siksi puhun tšekki.
+Koska en suomi puhun, opin sen.
+
+kin = myös
+minäkin = minä myös = já taky
+
+haluaisin = já bych chtěl (kondicionál)
+
+POZOR: Finština nemá "každodenní" sloveso "mít" (podobně jako třeba ruština).
+Buď je potřeba využít sloveso "vlastnit", což znamená něco trochu jiného, nebo to opsat
+konstrukcí "u někoho je něco".
+  - Onko teillä kahvia? Doslova "Je u vás káva?", význam "Máte kávu?"
+
+täma (tohle) - täällä / tässä  (tady)
+tuo  (tamto) - tuolla / tuossa (támhle)
+se   (to)    - siellä / siinä  (tam)
+Příslovce vždy ve variantě s lokálním pádem vnitřním a vnějším.
+
+

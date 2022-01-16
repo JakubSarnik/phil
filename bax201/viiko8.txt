@@ -1,0 +1,108 @@
+=== Hodiny ===
+
+Kolik je hodin?
+  Mitä kello on?
+
+Když je hodina celá:
+  Kello on (tasan) seitsemän. (7:00)
+
+Když je půl, funguje to stejně jako v češtině:
+  Kello on puoli seitsemän. (6:30)
+
+yli - "přes"
+vaille - "něco jako bez"
+
+Čtvrtě fungují jinak než v češtině, ale podobně jako v angličtině:
+  Kello on varttia yli seitsemän. (7:15)
+  Kello on varttia vaile seitsemän. (6:45)
+
+Tato slova je možné používat i s přesnými minutami:
+  7:05 Kello on viisi (minuuttia) yli seitsemän.
+  6:55 Kello on viisi (minuuttia) vaille seitsemän.
+
+V mluvené podobě se dá používat i digitální čas:
+  7:47 Kello on seitsemän neljäkymmentäseitsemän.
+
+Na rozdíl od češtiny *nepoužíváme* tvary typu "za pět minut půl".
+
+Když digitální čas nepoužíváme, lze upřesnit denní dobu takto:
+  7:00  seitsemän aamulla
+  15:00 kolme päivällä
+  19:00 seitsemän illalla
+  2:00  kaksi yöllä
+
+Když chceme říct, v kolik hodin se něco stane (např. se setkáme), nepoužíváme žádné
+"on", stejně jako v češtině.
+  Kurssi alkaa kello viisi. (Kurz začíná v pět.)
+
+Cv.
+  4:30  Kello on puoli viisi (aamulla).
+        Kello on neljä kolmekymmentä.
+  5:15  Kello on varttia yli viisi.
+        Kello on viisi viisitoista.
+  18:37 Kello on kaksikymmentäkolme minuuttia vaille seitsemän.
+        Kello on yhdeksäntoista kolmekymmentäseitsemän.
+  ...
+
+Milloin - kdy
+
+Vuorokausi - část dne
+  - Odpovídáme s pádovou koncovkou -llA
+  - aamu (ráno) + lla = aamulla (ráno)
+  - aamupäivällä - dopoledne
+  - päivällä - ve dne
+  - iltapäivällä - odpoledne
+  - illalla - večer (nom. je ilta, ale gradace t -> l)
+  - yöllä - v noci
+  - aamuyöllä - nad ránem (brzo ráno)
+
+Vuodenajat - roční období
+  - Opět llA, ale pozor na nominativy
+  - talvi (zima)   - talvella
+  - kevät (jaro)   - keväällä
+  - kesä  (léto)   - kesällä
+  - syksy (podzim) - syksyllä
+
+Kuukaudet - měsíce
+  - Koncovka -ssA
+  - Kuu - měsíc (časový, na obloze i ve vesmíru)
+  - Kuukausi - měsíc jen časový
+  - V testu nebudou, ale do budoucna se naučit
+
+Viikonpäivät - dny v týdnu
+  - maanantai
+  - tiistai
+  - keskiviikko
+  - torstai
+  - perjantai
+  - lauantai
+  - sunnuntai
+  - viikonloppu - víkend (doslova týdne-konec) 
+  - Když chceme říct v den, tak koncovka -na (maanantaina, tiistaina, ..., viikonloppuna)
+
+Relativní dny
+  - tänään - dnes
+  - huomenna - zítra
+  - ylihuomenna - pozítří
+  - eilen - včera
+  - toissapäivänä - předevčírem
+
+Cv.
+  Tänään on maanantai.
+  Huomenna on tiistai.
+  Ylihuomenna on keskiviikko.
+  Eilen oli sunnuntai.
+  Toissapäivänä oli lauantai.
+
+  Huomenna on sunnuntai.
+  Tänään on lauantai.
+  Ylihuomenna on maanantai.
+  Eilen oli perjantai.
+  Toissapäivänä oli torstai.
+
+  keskiviikkona
+  torstaina
+  maanantaina ja perjantaina
+  tiistaina
+  tiistaina ja perjantaina
+

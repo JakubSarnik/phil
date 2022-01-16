@@ -1,0 +1,45 @@
+=== 3. slovesná skupina ===
+
+Opiskella - studovat
+Tulla - přijít
+
+Všechna slovesa končící na -lla patří do 3. skupiny
+
+Časování:
+minä opiskelen
+sinä opiskelet
+hän  opiskelee
+
+me   opiskelemme
+te   opiskelette
+he   opiskelevat
+
+Cv.
+mennä: minä menen, hän menee
+tulla: sinä tulet, me tulemme
+nousta: te nousette, he nousevat
+opiskella: minä opiskelen, sinä opiskelet
+ratkaista: hän ratkaisee, he ratkaisevat
+kävellä: te kävelette, hän kävelee
+surra: hän suree, minä suren
+
+=== Fráze pro komunikace ve škole ===
+
+Hanna, minä kirjoitan Mikolle sähköpostia suomeksi. Voitko auttaa minua?
+  Hano, píšu Mikovi email ve finštině. Můžeš mi pomoct?
+Tietysti!
+  Jistě!
+En tiedä, mitä "news" on suomeksi.
+  Nevím, jak se finsky řeknou "novinky".
+Se on uutiset.
+  To je "uutiset" 
+Okei. Entä miten sanotaan "Greetings from Helsinki"?
+  Dobrá. A jak se řekne "Zdravím z Helsinek"?
+Terveisiä Helsingistä.
+  ...
+Ai mitä? Voitko sanoa uudelleen!
+  Jakže? Můžeš to říct znovu?!
+Terveisiä Helsingistä.
+  ...
+Ahaa, okei. Kiitos avusta!
+  Aha, dobrá. Děkuji za pomoc!
